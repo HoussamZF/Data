@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Tranfert</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<header>
+    <nav>
+		<a href="Home.html" class="nav-item "  data-target="Home">Home</a>
+		<a href="Joueurs.html" class="nav-item"  data-target="About">Joueurs</a>
+		<a href="Championnats.html" class="nav-item" >Championnats</a>
+		<a href="Clubs.html" class="nav-item" data-target="Testimonials">Clubs</a>
+		<a href="Mercato.html" class="nav-item" data-target="Blog">Mercato</a>
+		<a href="Contact.html" class="nav-item"  data-target="Contact">Contact</a>
+        <a href="API.html" class="nav-item"  data-target="API">API</a>  
+        <span class="nav-indicator"></span>
+    </nav>
+
+</header>
+<body>
+<div class="main">
+ 
+	<!----
+<nav2>
+	<label for="btn" class="button">Trier par
+		<span class="fas fa-caret-down"></span>
+	</label>
+	<input type="checkbox" id="btn">
+	<ul class="menu">
+		<li><a href="#">Nom</a></li>
+	<li>
+			<label for="btn-2" class="first">Features
+				<span class="fas fa-caret-down"></span>
+			</label>
+			<input type="checkbox" id="btn-2">
+			<ul>
+				<li><a href="#">Pages</a></li>
+			</ul>
+		</li>
+		<li>
+			<label for="btn-3" class="second">Services
+				<span class="fas fa-caret-down"></span>
+			</label>
+			<input type="checkbox" id="btn-3">
+			<ul>
+				<li><a href="#">Web Design</a></li>
+				<li><a href="#">App Design</a></li>
+			</ul>
+		</li>
+
+		<li><a href="#">Nationalité</a></li>
+		<li><a href="#">Club</a></li>
+	</ul>
+</nav2> --->
+<button id="open-popup">Test popup </button>
+<table class="content-table">
+	<thead>
+		<tr>
+			<th><a id="sort-by-photo">Photo</a></th>
+			<th><a id="sort-by-nom"></a>Nom</th>
+			<th><a id="sort-by-nationnalite">Nationnalité</a></th>
+			<th><a id="sort-by-club"></a>Club actuel</th>
+			<th><a id="sort-by-position">Poste</a></th>
+			<th><a id="sort-by-age"></a>Age</th>
+			<th><a id="sort-by-valeurMarchande">Valeur marchande</a></th>
+		</tr>
+	</thead>
+	<tbody id="div-data-joueurs">
+
+	</tbody>
+</table>
+
+</div>
+<div class="popup profil" id="joueur-selectionne">
+   
+</div>
+
+<script src="gestion_joueurs.js"></script>
+<script src="client_joueurs.js"></script>
+<script src="open_popup.js"></script>
+</body>
+</html>

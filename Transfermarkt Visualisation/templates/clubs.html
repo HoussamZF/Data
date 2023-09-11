@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Tranfert</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<header>
+    <nav>
+		<a href="Home.html" class="nav-item "  data-target="Home">Home</a>
+		<a href="Joueurs.html" class="nav-item"  data-target="About">Joueurs</a>
+		<a href="Championnats.html" class="nav-item" >Championnats</a>
+		<a href="Clubs.html" class="nav-item" data-target="Testimonials">Clubs</a>
+		<a href="Mercato.html" class="nav-item" data-target="Blog">Mercato</a>
+		<a href="Contact.html" class="nav-item"  data-target="Contact">Contact</a>
+        <a href="API.html" class="nav-item"  data-target="API">API</a>
+
+        <span class="nav-indicator"></span>
+    </nav>
+
+</header>
+<body>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Photo</th>
+                <th>Nom du club</th>
+                <th>Taille de l'effectif</th>
+                <th>Bilan de transfert</th>
+                <th>Nombre de joueurs étrangers</th>
+                <th>% de joueurs étrangers</th>
+                <th>Nom du stade</th>
+                <th>Âge moyen</th>
+                <th><a id="sort-by-valeurmarchande">Valeur Marchande</a></th>
+    
+            </tr>
+        </thead>
+        <tbody id="div-data-clubs">
+    
+        </tbody>
+    </table>
+    
+    <script src="gestion_clubs.js"></script>
+    <script src="client_clubs.js"></script>
+</body>
+</html>

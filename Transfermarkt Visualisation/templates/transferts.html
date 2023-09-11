@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c4b0d0339e604837da5cd17c22a701d0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_c4b0d0339e604837da5cd17c22a701d0" ></div>
+        
+</body>
+<script>    
+    
+            var map_c4b0d0339e604837da5cd17c22a701d0 = L.map(
+                "map_c4b0d0339e604837da5cd17c22a701d0",
+                {
+                    center: [43.269827, 5.3958873],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4.5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1c1b60afb7558bcef0ad423bd415cf32 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+            var marker_4285f3f72e685980ae3856543ff000bf = L.marker(
+                [51.5567623, -0.1063327],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_99e8df0e8153cc70615bb3d15375c3df = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"});
+        marker_4285f3f72e685980ae3856543ff000bf.setIcon(custom_icon_99e8df0e8153cc70615bb3d15375c3df);
+        
+    
+            marker_4285f3f72e685980ae3856543ff000bf.bindTooltip(
+                `<div>
+                     FC Arsenal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_ec665efccc02b1399ea333e576af690b = L.polyline(
+                [[51.5567623, -0.1063327], [43.269827, 5.3958873]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3.896551724137931}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_0d5ef4129920bd0d0e3b05e545a335ec = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_1bf8304062057c2cfc88dfb4602e9cae = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzQ2NTgzMC0xNjQ2MjEyNzA4LmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yMyB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5NYXR0w6lvIEd1ZW5kb3V6aTwvYT4gfCAyNSwwMCBtaW8uIOKCrDxicj5NaWxpZXUgZGUgdGVycmFpbiAtIE1pbGlldSBjZW50cmFsPGJyPkZyYW5jZcKgwqBNYXJvYzxicj4+IE9seW1waXF1ZSBkZSBNYXJzZWlsbGU8YnI+PGI+MTEsMDAgbWlvLiDigqw8L2I+PGJyPjxiPkZpbiBkZSBjb250cmF0IDogPC9iPjMwIGp1aW4gMjAyNTxocj4=" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_0d5ef4129920bd0d0e3b05e545a335ec.setContent(i_frame_1bf8304062057c2cfc88dfb4602e9cae);
+            
+        
+
+        poly_line_ec665efccc02b1399ea333e576af690b.bindPopup(popup_0d5ef4129920bd0d0e3b05e545a335ec)
+        ;
+
+        
+    
+    
+            var marker_329bcef68438421d62216d1ae224fdbb = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_d68b74d759248305d39c96e0046e9973 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_329bcef68438421d62216d1ae224fdbb.setIcon(custom_icon_d68b74d759248305d39c96e0046e9973);
+        
+    
+            marker_329bcef68438421d62216d1ae224fdbb.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4bbbab1c9a587fa56ea6a2208c0d94d3 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_ad86632ab55a79183a38afa996aae8fa = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_4bbbab1c9a587fa56ea6a2208c0d94d3.setIcon(custom_icon_ad86632ab55a79183a38afa996aae8fa);
+        
+    
+            marker_4bbbab1c9a587fa56ea6a2208c0d94d3.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_e15ca5356c998a67595bbde075e227fe = L.polyline(
+                [[43.269827, 5.3958873], [52.508979, -1.884895]],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_06220130d6d693bcf066cf904c1de6e0 = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_e845f710e3794153ba911921eae90a1b = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzM5NDMyNy0xNjA0MjU2NDEzLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yMyB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5Cb3ViYWNhciBLYW1hcmE8L2E+IHwgMjUsMDAgbWlvLiDigqw8YnI+TWlsaWV1IGRlIHRlcnJhaW4gLSBNaWxpZXUgZMOpZmVuc2lmPGJyPkZyYW5jZcKgwqBTw6luw6lnYWw8YnI+PiBBc3RvbiBWaWxsYTxicj48Yj5UcmFuc2ZlcnQgbGlicmU8L2I+PGJyPjxiPkZpbiBkZSBjb250cmF0IDogPC9iPjMwIGp1aW4gMjAyNzxocj4=" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_06220130d6d693bcf066cf904c1de6e0.setContent(i_frame_e845f710e3794153ba911921eae90a1b);
+            
+        
+
+        poly_line_e15ca5356c998a67595bbde075e227fe.bindPopup(popup_06220130d6d693bcf066cf904c1de6e0)
+        ;
+
+        
+    
+    
+            var marker_44ae7081294bbc1e49638b1e1e13b5e6 = L.marker(
+                [52.508979, -1.884895],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_3751a4ca42a05a1997c6778c39afa94d = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/405.png?lm=1469443765"});
+        marker_44ae7081294bbc1e49638b1e1e13b5e6.setIcon(custom_icon_3751a4ca42a05a1997c6778c39afa94d);
+        
+    
+            marker_44ae7081294bbc1e49638b1e1e13b5e6.bindTooltip(
+                `<div>
+                     Aston Villa
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_90d9cfead8b5ce4d770adf52cabace62 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_a52b45ab70ddab44191aa941b5544c5d = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_90d9cfead8b5ce4d770adf52cabace62.setIcon(custom_icon_a52b45ab70ddab44191aa941b5544c5d);
+        
+    
+            marker_90d9cfead8b5ce4d770adf52cabace62.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b5fbbfd87ceed880579033d1864e4faf = L.polyline(
+                [[43.269827, 5.3958873], [39.0, 35.0]],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3.3793103448275863}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_ac880ed86abea90e7c35fc5ac4246d48 = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_ce0309b2376c5bcd07bfb513cb70977e = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzIzODI2Ni0xNjYyMDY5ODc5LmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yNiB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5EdWplIENhbGV0YS1DYXI8L2E+IHwgMTQsMDAgbWlvLiDigqw8YnI+RMOpZmVuc2UgLSBEw6lmZW5zZXVyIGNlbnRyYWw8YnI+Q3JvYXRpZTxicj4+IFNvdXRoYW1wdG9uPGJyPjxiPjgsMDAgbWlvLiDigqw8L2I+PGJyPjxiPkZpbiBkZSBjb250cmF0IDogPC9iPjMwIGp1aW4gMjAyNjxocj4=" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_ac880ed86abea90e7c35fc5ac4246d48.setContent(i_frame_ce0309b2376c5bcd07bfb513cb70977e);
+            
+        
+
+        poly_line_b5fbbfd87ceed880579033d1864e4faf.bindPopup(popup_ac880ed86abea90e7c35fc5ac4246d48)
+        ;
+
+        
+    
+    
+            var marker_51d3563f0520ae9ed16b4ebf38bfc193 = L.marker(
+                [39.0, 35.0],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_b8a7de488053facf08cd7ef77d38a9f9 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAAC1CAYAAABvaQwiAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAE8RJREFUeJztXXlsnMUV5w6XetAibkFbKsV2Pp/rK+td33cS57Zz2I6deA87zmESctsJSZz7PpyEtKFQSCkhARVBqRpBpQoqSgUUSqGUq/0DUShCHI3Ckel73+466/X37X7zXe9bZ37ST0Eku56Z9/PMmzfz3lx0kYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAAKBg8YJL8xZ2p+b4fNU5wcBcV2dwiysYeDTH73/aFQi8B/99Jifg/wZ4TprYyEa7a74FngV+AfwQ+ArwCeD9wBXA2SnumuIUd+3tqZ76i6n7J2AALr/vRyCIySCCHSCIF8JCYAnZ4UOh8BIFdRq4GlgFArqBuv8CceCa57vGFfBXu7qCu0Eg/9IkDCX6OvSIZRjTJzf9FcS60dUZKMlf1H0l9fhc8HC1zbsSlpR6MMoDYOizugUSw7SaSYaEklJcD6LzDX4fCOYMCPgQsDyve/4V1ON2QQEGPQUMsBUM8amSsbNa21j61BlsTN0UllY9kaVVNsh/ShOmsYzps+S/h6VJVSzZHR0staJBt1ikidPVxRgM/AfavyY3GPgx9TiOWOR2dV4MAqmCpeb3igJpa8epn6WU1Gv77ffWyeLJmtOmbFS/D8Q2WZdYMppma5rBoD+PwazooR7bEYNcv/9i+G1sgB3Lm8NmgHnzYKaYyVLLJxhaNtKqJoZmGwWDZs5sAQGO4/q+zFktXMseiOZF8LWq8uZ3iV2VXsB0XQscJpKsljlMGjeVjS6qNcUZHVw+xk8b4mtEzzLShOmaf17mzGZ9/lIw8AKIxks97kkFmEUyYLl5RskXwVlgyHICBkSmeupYmqeepXnHsTHFyPEqHCf/mzRvPXymHj5bJ38+8n2p5ePlGUtxqZvTztIqEs9i6BcZcbDhF+QULE93UtvB0cgN+L8DQtkJA3ZOcTmQhVEnGxkNL5VMGMb08okse+pslucPMPfKu1nJrg2s7NBWVjawlXnuWcWyGpoUP4fE70QRjQHnNnd+p4ov42dj6qfEFcsYmPWMiCXMb3M6OlZkzWq9itoujgMMTjXwg9hBy+tZwNz9q1nWlFmKBs6c0Mhy58xjY5ctYaUHNrPqk4dZzeP3qrJ0b7+qWKKZHwiyyuP7mXfXPaxg5RKW0xkY0q60WnXnN7V0nBliCbGj442slrY8avs4Ai5/4NqcQOBI9ADlLupmni19rPLBfYNGLr93Oytc2sMKFi9kRX0rWMnujazq4YNxhaHEwiWLNYkF6e3vHfxc9YkBVrxrPctf1gO+BTjX7XPjzi64ZOkRBy6BuNxmNs8Btsr+Ge7Y4M/12c1tF25wD5y5bBigd8POHStcvZSVHdnGLQCtLBvYIi9TWsUilTbIn4n9HhRxwfK74oolfcoMLoFIkxq1bPufx7MoarvZDnDg2mCgzsKfzL1+Fat8+IBlIhkUStVk7UIJM6N6Cqv4xe6h3/fYEZbb3iH/PfpPiktR2fi4gb9BXwxmD4z5cOzaPgNWU9vPFuQvXnAFOLFHUCRF4ItU/Zp/KeGld3Mf34wSK5jaqazsYGiGwfbmts4d9m/SFESTOTt+vCVzdisb7dG3/YcZZiXsAC+htqdlyO3s/C6I5NnCvmWs6lfWziQRouOrVySxzJ7enHB2ip5pcBuOMRpFocDuzoQ40THYIY48P8YVDP4g/+7Ffy+/b5ctIpGFcvddpgmFi7AFx7iPHOhriDkngqUJz63MCiQCT4NgvkdtX9OQ37PwRu+OdX/Dtd4uoaCPomvJqZvG8jr88nY8o2aqIdFg3AZjQ3iKnTGjmWU0zpJnGxOFEuGL8HN+SG1nwyjdt+mmivv3/NMukUSIxuY1bnrFJFb5y73nvwfE7d24hmVNnmlINGpOsMl8HQRzI7W9daP8yLYbqh8ZeMtuoSAzx03nNioG4tS+z7t5rSHRRGYZGwSTfDNMyd7+71c9MvAyhVCQWZP4DetesTTh9xoVTcSXsZAvJpUPk+cLXAlbzGephILU49wWrV2p+fu9/Wt0zV5IPMi0WDCnk2KXBINxCXCgaN0qMqHIBH/DNbuNTyx9K7h+RvWjh1jhooVypNeBy9Ixx8dhYCB6ZGexfCIrP7qdXDB4FpReoS0g5+GYWaJZvHUdS6/kjw4j8RTdKsFg4I5aD6qAzpcAz0UGImviDFZ94hCtYB4Pn+Us6GaZsC2OZzg0ut6fgZ91qB/jvKMB6PStwE9iByK/s4tcLOdnmnvlawxjl/TIZzs5M1pZTmMLy22dxzzrVsp/b+T78R6NfsFYtr3+zFGHj9DZUcBX1AYCLyCRC8UGupr5fCQbHd/nwT8aRa0TGdDRzfEGIWtCEziD8S8lJTvR2cUDRyNiCTm+lglmDbVOUCjuaD9FjWOX9pAb1EoW3qX9UlViwVhyJHAOmEMplKuAb2kZADytTXTlMVnp3bIWts/mCMVKwaRPanwzt6vzaiqx9PEMQBk4l9SGNV0o/b264ix2CwZv4cnXJXw++7fT0Jk7gV/xdN696m5y45pJ9+pllojECsHgqXf4isS32e1zf2K3WE7ydjynqYXcwKYQg30YubVYKOcFY8zpjc02cAUDJ+0Uikdvx/XcyHcS0e/K8wVsE0qERrbVSklvIBh7cqyh8c/p7XTJ3n5yg+sWyiMDhmMpRqg3cJc9VyHD0ud7fkztZGtzq6HRFUY6XJikW2i8qI3RXiqhnBcM39GAnGWgnsBWbrVY/mSksxi4SrYtNF4uz56mP5RvNnkOHzHVNk6GwQtWCqXAjM6W7t9ELgDNQjm+n2WrpM7SCkbb9QYsaBQvHcUy3wUaecKMjubMnEMuAi3E02o8OacWhhK1bqmxtkzcRDe/71ErhHKHpCGsr5VY2YBaDImWHqcKJUKtO6TMGQnqxbTNvcNssSwzs6N4i41aEGrEJHhMKKMWgxZqcng9tSyrRaUcGi5FgcBqM4VyOfADsztaumcjuTCUmNvWQS4CHqa4Nfgv4OOo1boDv+Wj3A7/5WaJpdiKTspXFxxwky6aeCRBbXxe8hwJYA0+xRnG5yszSyz7rOpowaKF5AKJsOK+3Sy9TH8CPSU1x19ghlERywEzhIK34D61sqPF2/XffTV1+VGojpBM1LKdTsXTZ2Xf5UuX328sfUQKXW6ytJOYNoq/1ZRCwd2PVVcN7KLqgWM43xoT8tWKK8q+S1ew1KhY1tjRUSyaE6mBQkEsUEhtbDMYuxylVjbIJc00VqFab1Qsr9rW2bIGOZOw5pR91RYixJp11IY2hVHOLpahV6zrqxqg879uRCg3UHQYc4lLbb5VhxeuUazkxjaBcn1fb13cJUeN2W1zb9ErlirKTuf7g8bKiMEMVbx1LXM1t8sZg5glicsd5gu5ly9hFceGFhbKbkyOQJwWYgkyXqGEYy7j9Iqll7zT9dNY6T7+OzCVD+xNfKUAZpJoPwkzEKj7awbx7M278x59YukMbNArltPUHZcJu5Si3uWahYLVJTMSpKpGiFcmIgV8yn+2g76vJlD+5cKKmgvn8wvG5/uDHqFcDPyMuuPR9G7pSywWGCTeNFIs0V52eJu8bOkpf+okovgjGwTvzvX8YvH7v0qv4bxBBz/4NuqOK1E2ahyxlOzeoPu700eAg5vf2XneaT95mLnU3iCItxT5/T/lFYuXuuNKxFkA78KqiaVojfXpGU6md1PvkPFwb1zNL5aAn++6JfzgJuqOq3Hs0rtUxYL3ZMzODkwmxpazx8cqsNQ9p2DaeMWynLrjcQclznKEUzF1+6hYoVBnWH7VhEcsHR18SfTwg49SdzwesZ5b1UP7VZzcUKK63mpMyczol1QG/bj9/bw7ood5xfIEdccTMWvyrKF1axWisiV7NoIfs5wVdHczV0u7HJSjbrelYlEYD9nR7Qry7Iie5hXLC9Qd10Lc6no2rJavQmqN6mKVp4yakSkatSd4xvYt4wnMvccrlvepO84lmopJchl1rGqAQSl8vAp3BljbthAftILZpeLYzvOBu/v3sKwJjeTtNpslO9crhxQObuJZir7gFcvH1B03naUN8nMy0YIxWp/facRCi2pLcuzTferLkO9rXrF8Qd1xS1jWMGTHUAy/iSNpq40+mVrGZ8HyHq0zyzlesXxD3XGr6GqdO2QQ8+b5ydtkJqNnzyEBy829mpciXrF8Td1pK4lXF6KXo3h3WdIrJ8l3bDB6bORFNLuIs4vSFrrs6Pa4AsH7L5guklrZwD2zfE7daSuJAoi+z6JUSgOdZkwNwfV+yKn2fbuZZ+Malj9/fujQ0oF3d/Ghi9j7OtUnDw2L5ma1tbOMxtksrWbI4+pnecXyEXWHrSZW3C4/ukMeyNhKTjiDKL28qsTKh/azscuXOC/dFXwxLDyEoYXiLWtZ8bZ1LKu5FQsRyhe44zzk+SWvWN4h76wtA9ogDyhesor+/9FvOvMQP5dZr++1EDuosVzHx7xiMVSHJZmJS4uRJ/qq8YVWHS+p2UGN1aNe4xXL49Qdo6KRBx+GbFXnd5P3JZYaKy/8llcsh6k7RkJYlsx8RhgjyE7KGtCYF/0gr1iWUHeMgpgJYJZQBgN/O9Y76ABTk1h6ecUyjb5j9hNTRMwWC7Lq+AGW39XliGsTGsTSwisWy3OcncjoYJ0VxFA8HvahcPQ8+mmTWPjKb8CX3kRtOAranQmJ90/cK5eyzPH2nYAnqraQ4q7lK9cuhVJB/kttPLtZdpDoMQq83dezyJZocAKxnIHtNf9DnPDFT1Ebz36x0FVyQOLdG2Kx/JFbKGGxmFp0MBlYvP0eUrHUgE9jtROcQCy601dLqY1nN53wzA0m7tOJpVZ3Yvx11Mazm1h2nVwsTXRiAef2Vl1iCQsmKS5um0ks7EMmlseOmPIwZzzGWYL+oVsoYbEspTae3ZSjuAYOEo2wdN8my/sXRywbjYolj9p4FCzqW0EiFhSqtX2LG+43XIDwMuCH1MajIL6qaqdQ8LKV1X2Kc5D4Raqn7ipDYgkLZgu14aiICWl2+Sq8dWX0MM4VhSOGhRIWiynvDCUrMRfH6hfv7SoDr375qbbSLLFcCnyb2miUdM1qs+wxUDwfwgvkdvRD5VrlRyCiK0wRS1gw3dQGoyY+NWzFk30uG8vAq8RY1pomlLBYbgR+S20waprt9OL32dl+BaGcS3HX8pUF0yiYn1Mbi5pqucR6iNc3rQ7ARVNlJ/Qb04USFksGtbGoiamuZoklt93eR7BUnNtiS8QSFszvqA1GSTSwKcvPpl7b267gr7xsmVDCYimkNhgl8wJB48vP8f0kpT4UZpVaS8USFswFdykqwoJFC4wvPwSPYCkE414Cx5avOLJOsWRTG42KPGXhlVjUu4Kk3QrP4pnzJqJGwTi6mqVVNLJ1xqsPVCU7YoTylG1CCYvlZuAZauPZzdL9m3QJBQskUlVZiFmCvgGm2iqWsGAWUBvPbuKLI3rEgpUaqNocE+Lvt10oYbFcAXyR2oC2sbRBV7jfs24VabujhPI+bJ+vIRFLWDDp0gVyDIDLCK9QcNmiTIxP8w4JxBm73GSSYC6Iq5e80dvyo9vJE+JHuwcDcXuodSIDGnU58BlqY1pNnjQRfIiCusZulGP7Biw/V1PrZBDQuFuBn1Ab1EqW7NqgSSj477B4IXV7w+H9/6W4a8dQ62MYoIElwHPUg2QVY6s/KhHfpXZC9cqoWWUGtS5UAQ3toR4oK4gzRfWp+DshfHmEup0R4qwCM8puaj3EBTT0EuAA9WCZzbx5vvhxlECQvI0RhndAT6Z66i6j1kNCQINHAZ+kHjQzGa/UqVwqwwFtjBBmlVeA11LrQDOg0d8BPkc9cGZRzV8pkR+KoPdRIkz11L8NQrmR2v7ckEKJ9S9RD6BR4oPiWGxnmFhOHWGZE5rI2xfhmOLx/04tqrud2u66AZ24PtkFkx/sVJxVMAGNum1RfFcqGX8Htb0NQwrNMEm7JHnWr1IUC6aGULctzDeBt1Db2TRIIR/mzw4YWG7io5yxQsGEM4f4Kn8BXk9tX9MBnboaeMoBA8xFfFg8Viz4ABR1u6TQC7nOCeObDSkUh9nkgIHWLpaB4WLJp4+r7MGxpLanLYCOTpKS5B1GfMk1VixYToyoPThmzg3hWwXo9GjgK9RiSET3qmXDxIIPWxG05TWg/VcinQIpFO3dLDn4ADJ7WvMwsWTU2yoWHBs8QhlFbS9HQAq9FfAWtTDUWBZTlNA1e/ibihYRS51UUNvHcYBBuQrYB/yKWhyxxHKj0UUJS/f2W711xswJvBBvXt2UkQgYoDuBJ6kFEksslR49uxTD9jm9wpI8IMzJupnaDkkFGDCP5LDIb+GSxYMzDB4umlw6HdOCs6nHPakBA1ghOeiBT3wnCKsppFeZJhSsTFFIPc4jClKoEOIJycE7Jw5i+gwWR8qgHtcRDRjgO6TQiyUfOMDovMTdDdbnS747J8kMKZSCUgzcB/zUAUJQIxadxlrCODNeSj1uFzykUHAPYzVrgK86QCD4QAYm32E5e+ffhb2QAQa6AVgF7AWeBn5moTDweUDcyeDSiG80XUfdfwEDkEJvPt4G9AKbgMulUDzjifAs8D7wYyl0UPcN8Gvg58CPgO9Iod3Y41LocXR883paeCbDh0etr6AkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMPLwf74W5pLa/TkFAAAAAElFTkSuQmCC"});
+        marker_51d3563f0520ae9ed16b4ebf38bfc193.setIcon(custom_icon_b8a7de488053facf08cd7ef77d38a9f9);
+        
+    
+            marker_51d3563f0520ae9ed16b4ebf38bfc193.bindTooltip(
+                `<div>
+                     Southampton
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_24e55fb5ed2df7026223774fee8008af = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_5e885798d30fda62f612e0824c10265e = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_24e55fb5ed2df7026223774fee8008af.setIcon(custom_icon_5e885798d30fda62f612e0824c10265e);
+        
+    
+            marker_24e55fb5ed2df7026223774fee8008af.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_01d69a9d38a1efeef0a6a6f2ca8b1627 = L.polyline(
+                [[43.269827, 5.3958873], [37.64557, -2.0749]],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": "10", "dashOffset": null, "fill": false, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_4d9c11063e7a4f1ab257aeb1ba438a7d = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_9983b5f4b336c204b41f452bef3e62cd = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzQyNDc4NC0xNjY2ODE1NTUxLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yNSB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5MdWlzIFN1w6FyZXo8L2E+IHwgOSwwMCBtaW8uIOKCrDxicj5BdHRhcXVhbnQgLSBBdmFudC1jZW50cmU8YnI+Q29sb21iaWXCoMKgRXNwYWduZTxicj4+IFVEIEFsbWVyw61hPGJyPjxiPlByw6p0PC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4zMCBqdWluIDIwMjc8aHI+" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_4d9c11063e7a4f1ab257aeb1ba438a7d.setContent(i_frame_9983b5f4b336c204b41f452bef3e62cd);
+            
+        
+
+        poly_line_01d69a9d38a1efeef0a6a6f2ca8b1627.bindPopup(popup_4d9c11063e7a4f1ab257aeb1ba438a7d)
+        ;
+
+        
+    
+    
+            var marker_cdf0f925f28e920cc731821fc3682266 = L.marker(
+                [37.64557, -2.0749],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_6659ac4e428cd2b34aefee957c5c2dac = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/3302.png?lm=1408654801"});
+        marker_cdf0f925f28e920cc731821fc3682266.setIcon(custom_icon_6659ac4e428cd2b34aefee957c5c2dac);
+        
+    
+            marker_cdf0f925f28e920cc731821fc3682266.bindTooltip(
+                `<div>
+                     UD Almería
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c03f7b8c079b2bac3f133f8c2fea3a36 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_7f0f751cba5e72c1b8dc934c525647de = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_c03f7b8c079b2bac3f133f8c2fea3a36.setIcon(custom_icon_7f0f751cba5e72c1b8dc934c525647de);
+        
+    
+            marker_c03f7b8c079b2bac3f133f8c2fea3a36.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_4597d20da9558c2ddaa9707ce5f38266 = L.polyline(
+                [[43.269827, 5.3958873], [38.265063, -0.664697]],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": "10", "dashOffset": null, "fill": false, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_40c4c05c626137c4eb390a8c9c585a27 = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_058902fa229e547a0fce16b01a4448c7 = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzI5ODk3NS0xNTk1OTI2MDYyLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yNSB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5Qb2wgTGlyb2xhPC9hPiB8IDMsMDAgbWlvLiDigqw8YnI+RMOpZmVuc2UgLSBBcnJpw6hyZSBkcm9pdDxicj5Fc3BhZ25lPGJyPj4gRWxjaGUgQ0Y8YnI+PGI+UHLDqnQ8L2I+PGJyPjxiPkZpbiBkZSBjb250cmF0IDogPC9iPjMwIGp1aW4gMjAyMzxocj4=" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_40c4c05c626137c4eb390a8c9c585a27.setContent(i_frame_058902fa229e547a0fce16b01a4448c7);
+            
+        
+
+        poly_line_4597d20da9558c2ddaa9707ce5f38266.bindPopup(popup_40c4c05c626137c4eb390a8c9c585a27)
+        ;
+
+        
+    
+    
+            var marker_3579375b1212fec48c82e8165f3d80d8 = L.marker(
+                [38.265063, -0.664697],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_6d9dfd72ab796a94b551e63ba0894542 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/1531.png?lm=1421955260"});
+        marker_3579375b1212fec48c82e8165f3d80d8.setIcon(custom_icon_6d9dfd72ab796a94b551e63ba0894542);
+        
+    
+            marker_3579375b1212fec48c82e8165f3d80d8.bindTooltip(
+                `<div>
+                     Elche CF
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2043570c2d7dfd54cdf6094a6bc7f229 = L.marker(
+                [39.0, 35.0],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_7b514b761744e653488c3e3bba21da19 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "data:image/png;base64,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"});
+        marker_2043570c2d7dfd54cdf6094a6bc7f229.setIcon(custom_icon_7b514b761744e653488c3e3bba21da19);
+        
+    
+            marker_2043570c2d7dfd54cdf6094a6bc7f229.bindTooltip(
+                `<div>
+                     Napoli
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_b07635b71811882852b400fba7a8a181 = L.polyline(
+                [[39.0, 35.0], [43.269827, 5.3958873]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3.3793103448275863}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_143b3a38bc75f1b1199e39a08f99d2d6 = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_5c0449f687a199700726a894f0292251 = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzE5MTg5MS0xNjYxNTE4MjU4LmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yOCB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5BcmthZGl1c3ogTWlsaWs8L2E+IHwgMTAsMDAgbWlvLiDigqw8YnI+QXR0YXF1YW50IC0gQXZhbnQtY2VudHJlPGJyPlBvbG9nbmU8YnI+PiBPbHltcGlxdWUgZGUgTWFyc2VpbGxlPGJyPjxiPjgsMDAgbWlvLiDigqw8L2I+PGJyPjxiPkZpbiBkZSBjb250cmF0IDogPC9iPjMwIGp1aW4gMjAyMzxocj4=" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_143b3a38bc75f1b1199e39a08f99d2d6.setContent(i_frame_5c0449f687a199700726a894f0292251);
+            
+        
+
+        poly_line_b07635b71811882852b400fba7a8a181.bindPopup(popup_143b3a38bc75f1b1199e39a08f99d2d6)
+        ;
+
+        
+    
+    
+            var marker_1f511d396e195bae39deafe4db2ec8bc = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_f15811f83694006598c02024c3f711ce = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_1f511d396e195bae39deafe4db2ec8bc.setIcon(custom_icon_f15811f83694006598c02024c3f711ce);
+        
+    
+            marker_1f511d396e195bae39deafe4db2ec8bc.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a14f190190d0cf908bc785b8205f54ae = L.marker(
+                [41.934077, 12.454725],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_5c94b1ed48da44904ddd809355307182 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/12.png?lm=1533302889"});
+        marker_a14f190190d0cf908bc785b8205f54ae.setIcon(custom_icon_5c94b1ed48da44904ddd809355307182);
+        
+    
+            marker_a14f190190d0cf908bc785b8205f54ae.bindTooltip(
+                `<div>
+                     AS Roma
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_aa8defc4db2498be7dbdbf5bb479de41 = L.polyline(
+                [[41.934077, 12.454725], [43.269827, 5.3958873]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3.4482758620689653}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_71cf420e7ca21b9b7b4eb26c0d571eb3 = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_74b033e4828ec33b6f802e0293c19b2f = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzM0MTY0Ny0xNjQwNzc3ODgyLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yNSB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5DZW5naXogw5xuZGVyPC9hPiB8IDE3LDAwIG1pby4g4oKsPGJyPkF0dGFxdWFudCAtIEFpbGllciBkcm9pdDxicj5UdXJxdWllPGJyPj4gT2x5bXBpcXVlIGRlIE1hcnNlaWxsZTxicj48Yj44LDQwIG1pby4g4oKsPC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4zMCBqdWluIDIwMjU8aHI+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHkgOiBhcmlhbCI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLmEudHJhbnNmZXJtYXJrdC50ZWNobm9sb2d5L3BvcnRyYWl0L2hlYWRlci8xNjQ3NzEtMTY2NjgxNTE2OS5qcGc/bG09MSIgaGVpZ2h0PSI1NSIgd2lkdGg9IjUwIj48YnI+MjkgfCA8YSBocmVmPSIjIiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uIDogbm9uZSI+Sm9yZGFuIFZlcmV0b3V0PC9hPiB8IDE0LDAwIG1pby4g4oKsPGJyPk1pbGlldSBkZSB0ZXJyYWluIC0gTWlsaWV1IGTDqWZlbnNpZjxicj5GcmFuY2U8YnI+PiBPbHltcGlxdWUgZGUgTWFyc2VpbGxlPGJyPjxiPjExLDAwIG1pby4g4oKsPC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4zMCBqdWluIDIwMjU8aHI+" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_71cf420e7ca21b9b7b4eb26c0d571eb3.setContent(i_frame_74b033e4828ec33b6f802e0293c19b2f);
+            
+        
+
+        poly_line_aa8defc4db2498be7dbdbf5bb479de41.bindPopup(popup_71cf420e7ca21b9b7b4eb26c0d571eb3)
+        ;
+
+        
+    
+    
+            var marker_c879e95e8f219ffbf753438841b2ea66 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_11a9eb3e8f26be25e409e1a67d51e0f1 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_c879e95e8f219ffbf753438841b2ea66.setIcon(custom_icon_11a9eb3e8f26be25e409e1a67d51e0f1);
+        
+    
+            marker_c879e95e8f219ffbf753438841b2ea66.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_88db487fef712223691d2024b7c3de11 = L.marker(
+                [41.934077, 12.454725],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_76053c5ebd3d1839ba87adc5e93956a5 = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/12.png?lm=1533302889"});
+        marker_88db487fef712223691d2024b7c3de11.setIcon(custom_icon_76053c5ebd3d1839ba87adc5e93956a5);
+        
+    
+            marker_88db487fef712223691d2024b7c3de11.bindTooltip(
+                `<div>
+                     AS Roma
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_c6f5152662344a2abdd412835679e721 = L.polyline(
+                [[41.934077, 12.454725], [43.269827, 5.3958873]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3.896551724137931}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_ee2d62ca600c1bd9b344a89186fd567e = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_00659070803e06c4124447a6b0208288 = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzM0MTY0Ny0xNjQwNzc3ODgyLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yNSB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5DZW5naXogw5xuZGVyPC9hPiB8IDE3LDAwIG1pby4g4oKsPGJyPkF0dGFxdWFudCAtIEFpbGllciBkcm9pdDxicj5UdXJxdWllPGJyPj4gT2x5bXBpcXVlIGRlIE1hcnNlaWxsZTxicj48Yj44LDQwIG1pby4g4oKsPC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4zMCBqdWluIDIwMjU8aHI+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHkgOiBhcmlhbCI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLmEudHJhbnNmZXJtYXJrdC50ZWNobm9sb2d5L3BvcnRyYWl0L2hlYWRlci8xNjQ3NzEtMTY2NjgxNTE2OS5qcGc/bG09MSIgaGVpZ2h0PSI1NSIgd2lkdGg9IjUwIj48YnI+MjkgfCA8YSBocmVmPSIjIiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uIDogbm9uZSI+Sm9yZGFuIFZlcmV0b3V0PC9hPiB8IDE0LDAwIG1pby4g4oKsPGJyPk1pbGlldSBkZSB0ZXJyYWluIC0gTWlsaWV1IGTDqWZlbnNpZjxicj5GcmFuY2U8YnI+PiBPbHltcGlxdWUgZGUgTWFyc2VpbGxlPGJyPjxiPjExLDAwIG1pby4g4oKsPC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4zMCBqdWluIDIwMjU8aHI+" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_ee2d62ca600c1bd9b344a89186fd567e.setContent(i_frame_00659070803e06c4124447a6b0208288);
+            
+        
+
+        poly_line_c6f5152662344a2abdd412835679e721.bindPopup(popup_ee2d62ca600c1bd9b344a89186fd567e)
+        ;
+
+        
+    
+    
+            var marker_fe0644dccbfb81be4ee80c5e827059d3 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_841f47d72e10ba32b1fe098dbe1a918f = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_fe0644dccbfb81be4ee80c5e827059d3.setIcon(custom_icon_841f47d72e10ba32b1fe098dbe1a918f);
+        
+    
+            marker_fe0644dccbfb81be4ee80c5e827059d3.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3fceb7bb014e7460eccfdd37ff6cb171 = L.marker(
+                [39.0, 35.0],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_6f997a698734a7fa9527eb68cab95fcd = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "data:image/png;base64,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"});
+        marker_3fceb7bb014e7460eccfdd37ff6cb171.setIcon(custom_icon_6f997a698734a7fa9527eb68cab95fcd);
+        
+    
+            marker_3fceb7bb014e7460eccfdd37ff6cb171.bindTooltip(
+                `<div>
+                     FC Porto
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_36d658ce69d2098085b035cc041a82bb = L.polyline(
+                [[39.0, 35.0], [43.269827, 5.3958873]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "0", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 2.0}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var popup_6d2838bd55603808e5a4207ce6cdf59f = L.popup({"maxWidth": 310, "minWidth": 310});
+
+        
+            
+                var i_frame_6f5f0677c1470f3f21118e17b00a9a72 = $(`<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><iframe src="data:text/html;charset=utf-8;base64,CiAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseSA6IGFyaWFsIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuYS50cmFuc2Zlcm1hcmt0LnRlY2hub2xvZ3kvcG9ydHJhaXQvaGVhZGVyLzIwMzM0OC0xNjY2ODE0OTIyLmpwZz9sbT0xIiBoZWlnaHQ9IjU1IiB3aWR0aD0iNTAiPjxicj4yOCB8IDxhIGhyZWY9IiMiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb24gOiBub25lIj5DaGFuY2VsIE1iZW1iYTwvYT4gfCAxNywwMCBtaW8uIOKCrDxicj5Ew6lmZW5zZSAtIETDqWZlbnNldXIgY2VudHJhbDxicj5SRCBDb25nbzxicj4+IE9seW1waXF1ZSBkZSBNYXJzZWlsbGU8YnI+PGI+VHJhbnNmZXJ0IGxpYnJlPC9iPjxicj48Yj5GaW4gZGUgY29udHJhdCA6IDwvYj4xNSBqdWlsLiAyMDIyPGhyPg==" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;"></iframe></div></div>`)[0];
+                popup_6d2838bd55603808e5a4207ce6cdf59f.setContent(i_frame_6f5f0677c1470f3f21118e17b00a9a72);
+            
+        
+
+        poly_line_36d658ce69d2098085b035cc041a82bb.bindPopup(popup_6d2838bd55603808e5a4207ce6cdf59f)
+        ;
+
+        
+    
+    
+            var marker_47503ac6e66888569ab96ae9974ec265 = L.marker(
+                [43.269827, 5.3958873],
+                {}
+            ).addTo(map_c4b0d0339e604837da5cd17c22a701d0);
+        
+    
+        var custom_icon_248e1ad2b92f0f9b5dc4f94a64ee8aad = L.icon({"iconSize": [18.9, 23.1], "iconUrl": "https://tmssl.akamaized.net/images/wappen/head/244.png?lm=1485642163"});
+        marker_47503ac6e66888569ab96ae9974ec265.setIcon(custom_icon_248e1ad2b92f0f9b5dc4f94a64ee8aad);
+        
+    
+            marker_47503ac6e66888569ab96ae9974ec265.bindTooltip(
+                `<div>
+                     Olympique de Marseille
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>

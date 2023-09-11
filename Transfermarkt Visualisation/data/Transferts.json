@@ -1,0 +1,6750 @@
+[ 
+
+        {    
+        "nomJoueur" : "Erling Haaland",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Bor. Dortmund",
+        "prix" : "60,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Raheem Sterling",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "56,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalvin Phillips",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "49,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gabriel Jesus",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "52,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Manuel Akanji",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Bor. Dortmund",
+        "prix" : "17,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Oleksandr Zinchenko",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Gómez",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "RSC Anderlecht",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Pedro Porro",
+        "nomClubAcheteur" : "Sporting CP",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Stefan Ortega",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Arm. Bielefeld",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Yangel Herrera",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Darwin Núñez",
+        "nomClubAcheteur" : "FC Liverpool",
+        "nomClubVendeur" : "Benfica",
+        "prix" : "80,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sadio Mané",
+        "nomClubAcheteur" : "Bayern München",
+        "nomClubVendeur" : "FC Liverpool",
+        "prix" : "32,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Melo",
+        "nomClubAcheteur" : "FC Liverpool",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Montant du prêt4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Neco Williams",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "FC Liverpool",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Fábio Carvalho",
+        "nomClubAcheteur" : "FC Liverpool",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "5,90 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Takumi Minamino",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "FC Liverpool",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Calvin Ramsay",
+        "nomClubAcheteur" : "FC Liverpool",
+        "nomClubVendeur" : "Aberdeen FC",
+        "prix" : "4,90 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marko Grujić",
+        "nomClubAcheteur" : "FC Porto",
+        "nomClubVendeur" : "FC Liverpool",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wesley Fofana",
+        "nomClubAcheteur" : "Chelsea FC",
+        "nomClubVendeur" : "Leicester City",
+        "prix" : "80,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Romelu Lukaku",
+        "nomClubAcheteur" : "Inter",
+        "nomClubVendeur" : "Chelsea FC",
+        "prix" : "Montant du prêt7,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Raheem Sterling",
+        "nomClubAcheteur" : "Chelsea FC",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "56,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonio Rüdiger",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "Chelsea FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Marc Cucurella",
+        "nomClubAcheteur" : "Chelsea FC",
+        "nomClubVendeur" : "Brighton",
+        "prix" : "65,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andreas Christensen",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "Chelsea FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalidou Koulibaly",
+        "nomClubAcheteur" : "Chelsea FC",
+        "nomClubVendeur" : "Napoli",
+        "prix" : "38,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Timo Werner",
+        "nomClubAcheteur" : "RB Leipzig",
+        "nomClubVendeur" : "Chelsea FC",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Denis Zakaria",
+        "nomClubAcheteur" : "Chelsea FC",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Montant du prêt3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Callum Hudson-Odoi",
+        "nomClubAcheteur" : "B. Leverkusen",
+        "nomClubVendeur" : "Chelsea FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gabriel Jesus",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "52,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattéo Guendouzi",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Fábio Vieira",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "FC Porto",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolas Pépé",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Oleksandr Zinchenko",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Torreira",
+        "nomClubAcheteur" : "Galatasaray",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marquinhos",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "FC São Paulo",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Héctor Bellerín",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Matt Turner",
+        "nomClubAcheteur" : "FC Arsenal",
+        "nomClubVendeur" : "New England",
+        "prix" : "6,36 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Konstantinos Mavropanos",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "3,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antony",
+        "nomClubAcheteur" : "Manchester United",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "95,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Paul Pogba",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Manchester United",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Casemiro",
+        "nomClubAcheteur" : "Manchester United",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "70,65 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cristiano Ronaldo",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Manchester United",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Lisandro Martínez",
+        "nomClubAcheteur" : "Manchester United",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "57,37 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jesse Lingard",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Manchester United",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Christian Eriksen",
+        "nomClubAcheteur" : "Manchester United",
+        "nomClubVendeur" : "Brentford",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Dean Henderson",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Manchester United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Tyrell Malacia",
+        "nomClubAcheteur" : "Manchester United",
+        "nomClubVendeur" : "Feyenoord",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alex Telles",
+        "nomClubAcheteur" : "FC Sevilla",
+        "nomClubVendeur" : "Manchester United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Richarlison",
+        "nomClubAcheteur" : "Tottenham Hotspur",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "58,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Steven Bergwijn",
+        "nomClubAcheteur" : "Ajax",
+        "nomClubVendeur" : "Tottenham Hotspur",
+        "prix" : "31,25 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cristian Romero",
+        "nomClubAcheteur" : "Tottenham Hotspur",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "50,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tanguy Ndombélé",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "Tottenham Hotspur",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yves Bissouma",
+        "nomClubAcheteur" : "Tottenham Hotspur",
+        "nomClubVendeur" : "Brighton",
+        "prix" : "29,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Reguilón",
+        "nomClubAcheteur" : "Atlético Madrid",
+        "nomClubVendeur" : "Tottenham Hotspur",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Tottenham Hotspur",
+        "nomClubVendeur" : "Udinese",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giovani Lo Celso",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Tottenham Hotspur",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Djed Spence",
+        "nomClubAcheteur" : "Tottenham Hotspur",
+        "nomClubVendeur" : "Middlesbrough",
+        "prix" : "14,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Udinese",
+        "nomClubVendeur" : "Tottenham Hotspur",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Diego Carlos",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "FC Sevilla",
+        "prix" : "31,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Carney Chukwuemeka",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Leander Dendoncker",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Wolverhampton",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matt Targett",
+        "nomClubAcheteur" : "Newcastle Utd.",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "17,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Boubacar Kamara",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Marseille",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Bertrand Traoré",
+        "nomClubAcheteur" : "Basaksehir",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jan Bednarek",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Southampton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mahmoud Trezeguet",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Philippe Coutinho",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Anwar El Ghazi",
+        "nomClubAcheteur" : "PSV Eindhoven",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Paquetá",
+        "nomClubAcheteur" : "West Ham United",
+        "nomClubVendeur" : "Ol. Lyonnais",
+        "prix" : "42,95 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nikola Vlasic",
+        "nomClubAcheteur" : "Torino",
+        "nomClubVendeur" : "West Ham United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Scamacca",
+        "nomClubAcheteur" : "West Ham United",
+        "nomClubVendeur" : "Sassuolo",
+        "prix" : "36,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Issa Diop",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "West Ham United",
+        "prix" : "17,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nayef Aguerd",
+        "nomClubAcheteur" : "West Ham United",
+        "nomClubVendeur" : "Rennes",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Masuaku",
+        "nomClubAcheteur" : "Besiktas",
+        "nomClubVendeur" : "West Ham United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Thilo Kehrer",
+        "nomClubAcheteur" : "West Ham United",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andriy Yarmolenko",
+        "nomClubAcheteur" : "Al-Ain FC",
+        "nomClubVendeur" : "West Ham United",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxwel Cornet",
+        "nomClubAcheteur" : "West Ham United",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "20,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ryan Fredericks",
+        "nomClubAcheteur" : "Bournemouth",
+        "nomClubVendeur" : "West Ham United",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Alexander Isak",
+        "nomClubAcheteur" : "Newcastle United",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "70,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Freddie Woodman",
+        "nomClubAcheteur" : "Preston NE",
+        "nomClubVendeur" : "Newcastle United",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Sven Botman",
+        "nomClubAcheteur" : "Newcastle United",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "37,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Isaac Hayden",
+        "nomClubAcheteur" : "Norwich",
+        "nomClubVendeur" : "Newcastle United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Matt Targett",
+        "nomClubAcheteur" : "Newcastle United",
+        "nomClubVendeur" : "Aston Villa",
+        "prix" : "17,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jeff Hendrick",
+        "nomClubAcheteur" : "Reading",
+        "nomClubVendeur" : "Newcastle United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nick Pope",
+        "nomClubAcheteur" : "Newcastle United",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "11,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Martin Dúbravka",
+        "nomClubAcheteur" : "Manchester Utd.",
+        "nomClubVendeur" : "Newcastle United",
+        "prix" : "Montant du prêt2,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Loris Karius",
+        "nomClubAcheteur" : "Newcastle United",
+        "nomClubVendeur" : "Sans club",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Ciaran Clark",
+        "nomClubAcheteur" : "Sheff Utd",
+        "nomClubVendeur" : "Newcastle United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Wout Faes",
+        "nomClubAcheteur" : "Leicester City",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wesley Fofana",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "Leicester City",
+        "prix" : "80,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alex Smithies",
+        "nomClubAcheteur" : "Leicester City",
+        "nomClubVendeur" : "Cardiff",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kasper Schmeichel",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "Leicester City",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Amadou Onana",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Richarlison",
+        "nomClubAcheteur" : "Tottenham",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "58,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Conor Coady",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Wolverhampton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "André Gomes",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "James Tarkowski",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Dele Alli",
+        "nomClubAcheteur" : "Besiktas",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Dwight McNeil",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Allan",
+        "nomClubAcheteur" : "Al-Wahda FC",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Neal Maupay",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Brighton",
+        "prix" : "11,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean-Philippe Gbamin",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Matheus Nunes",
+        "nomClubAcheteur" : "Wolverhampton Wanderers",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "45,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Morgan Gibbs-White",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Wolverhampton Wanderers",
+        "prix" : "29,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gonçalo Guedes",
+        "nomClubAcheteur" : "Wolverhampton Wanderers",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "32,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Leander Dendoncker",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Wolverhampton Wanderers",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sasa Kalajdzic",
+        "nomClubAcheteur" : "Wolverhampton Wanderers",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Conor Coady",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Wolverhampton Wanderers",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nathan Collins",
+        "nomClubAcheteur" : "Wolverhampton Wanderers",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "24,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Fábio Silva",
+        "nomClubAcheteur" : "RSC Anderlecht",
+        "nomClubVendeur" : "Wolverhampton Wanderers",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Hee-chan Hwang",
+        "nomClubAcheteur" : "Wolverhampton Wanderers",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "16,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rúben Vinagre",
+        "nomClubAcheteur" : "Sporting CP",
+        "nomClubVendeur" : "Wolverhampton Wanderers",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Duje Caleta-Car",
+        "nomClubAcheteur" : "FC Southampton",
+        "nomClubVendeur" : "Marseille",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jan Bednarek",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "FC Southampton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gavin Bazunu",
+        "nomClubAcheteur" : "FC Southampton",
+        "nomClubVendeur" : "Man City U21",
+        "prix" : "14,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nathan Redmond",
+        "nomClubAcheteur" : "Besiktas",
+        "nomClubVendeur" : "FC Southampton",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Sékou Mara",
+        "nomClubAcheteur" : "FC Southampton",
+        "nomClubVendeur" : "G. Bordeaux",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jack Stephens",
+        "nomClubAcheteur" : "Bournemouth",
+        "nomClubVendeur" : "FC Southampton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Roméo Lavia",
+        "nomClubAcheteur" : "FC Southampton",
+        "nomClubVendeur" : "Man City U21",
+        "prix" : "12,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Oriol Romeu",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "FC Southampton",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Armel Bella-Kotchap",
+        "nomClubAcheteur" : "FC Southampton",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yan Valery",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "FC Southampton",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Pervis Estupiñán",
+        "nomClubAcheteur" : "Brighton & Hove Albion",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "17,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marc Cucurella",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "Brighton & Hove Albion",
+        "prix" : "65,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Billy Gilmour",
+        "nomClubAcheteur" : "Brighton & Hove Albion",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "8,33 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yves Bissouma",
+        "nomClubAcheteur" : "Tottenham",
+        "nomClubVendeur" : "Brighton & Hove Albion",
+        "prix" : "29,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Julio Enciso",
+        "nomClubAcheteur" : "Brighton & Hove Albion",
+        "nomClubVendeur" : "Libertad",
+        "prix" : "11,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Enock Mwepu",
+        "nomClubAcheteur" : "Fin de carrière",
+        "nomClubVendeur" : "Brighton & Hove Albion",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Facundo Buonanotte",
+        "nomClubAcheteur" : "Brighton & Hove Albion",
+        "nomClubVendeur" : "Rosario Central",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Neal Maupay",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "Brighton & Hove Albion",
+        "prix" : "11,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Simon Adingra",
+        "nomClubAcheteur" : "Brighton & Hove Albion",
+        "nomClubVendeur" : "Nordsjaelland",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdallah Sima",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Brighton & Hove Albion",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Keane Lewis-Potter",
+        "nomClubAcheteur" : "FC Brentford",
+        "nomClubVendeur" : "Hull City",
+        "prix" : "19,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Christian Eriksen",
+        "nomClubAcheteur" : "Manchester Utd.",
+        "nomClubVendeur" : "FC Brentford",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Aaron Hickey",
+        "nomClubAcheteur" : "FC Brentford",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "16,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mads Bech Sörensen",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Brentford",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mikkel Damsgaard",
+        "nomClubAcheteur" : "FC Brentford",
+        "nomClubVendeur" : "Sampdoria",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcus Forss",
+        "nomClubAcheteur" : "Middlesbrough",
+        "nomClubVendeur" : "FC Brentford",
+        "prix" : "3,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thomas Strakosha",
+        "nomClubAcheteur" : "FC Brentford",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Halil Dervisoglu",
+        "nomClubAcheteur" : "Burnley FC",
+        "nomClubVendeur" : "FC Brentford",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Ben Mee",
+        "nomClubAcheteur" : "FC Brentford",
+        "nomClubVendeur" : "Burnley FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Tariqe Fosu",
+        "nomClubAcheteur" : "Stoke City",
+        "nomClubVendeur" : "FC Brentford",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Cheick Doucouré",
+        "nomClubAcheteur" : "Crystal Palace",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "22,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Christian Benteke",
+        "nomClubAcheteur" : "D.C. United",
+        "nomClubVendeur" : "Crystal Palace",
+        "prix" : "5,46 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sam Johnstone",
+        "nomClubAcheteur" : "Crystal Palace",
+        "nomClubVendeur" : "West Brom",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Cheikhou Kouyaté",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Crystal Palace",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Chris Richards",
+        "nomClubAcheteur" : "Crystal Palace",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Martin Kelly",
+        "nomClubAcheteur" : "West Brom",
+        "nomClubVendeur" : "Crystal Palace",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Malcolm Ebiowei",
+        "nomClubAcheteur" : "Crystal Palace",
+        "nomClubVendeur" : "Derby",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luke Plange",
+        "nomClubAcheteur" : "RWDM",
+        "nomClubVendeur" : "Crystal Palace",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Renan Lodi",
+        "nomClubAcheteur" : "Nottingham Forest",
+        "nomClubVendeur" : "Atlético Madrid",
+        "prix" : "Montant du prêt5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ui-jo Hwang",
+        "nomClubAcheteur" : "Olymp. Pirée",
+        "nomClubVendeur" : "Nottingham Forest",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Morgan Gibbs-White",
+        "nomClubAcheteur" : "Nottingham Forest",
+        "nomClubVendeur" : "Wolverhampton",
+        "prix" : "29,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Brice Samba",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "Nottingham Forest",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Taiwo Awoniyi",
+        "nomClubAcheteur" : "Nottingham Forest",
+        "nomClubVendeur" : "Union Berlin",
+        "prix" : "20,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jonathan Panzo",
+        "nomClubAcheteur" : "Coventry City",
+        "nomClubVendeur" : "Nottingham Forest",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Neco Williams",
+        "nomClubAcheteur" : "Nottingham Forest",
+        "nomClubVendeur" : "Liverpool",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joe Lolley",
+        "nomClubAcheteur" : "Sydney FC",
+        "nomClubVendeur" : "Nottingham Forest",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Remo Freuler",
+        "nomClubAcheteur" : "Nottingham Forest",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Richie Laryea",
+        "nomClubAcheteur" : "Toronto",
+        "nomClubVendeur" : "Nottingham Forest",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Brenden Aaronson",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "RB Salzbourg",
+        "prix" : "32,84 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Raphinha",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "58,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luis Sinisterra",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "Feyenoord",
+        "prix" : "25,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalvin Phillips",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "49,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tyler Adams",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Daniel James",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Rasmus Kristensen",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "RB Salzbourg",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tyler Roberts",
+        "nomClubAcheteur" : "QPR",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Marc Roca",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hélder Costa",
+        "nomClubAcheteur" : "Al-Ittihad Club",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "Montant du prêt4,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "João Palhinha",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Frank Anguissa",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Manor Solomon",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "Shakhtar D.",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Fábio Carvalho",
+        "nomClubAcheteur" : "Liverpool",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "5,90 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Daniel James",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean Michaël Seri",
+        "nomClubAcheteur" : "Hull City",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Issa Diop",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "West Ham Utd.",
+        "prix" : "17,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rodrigo Muniz",
+        "nomClubAcheteur" : "Middlesbrough",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Andreas Pereira",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "Manchester Utd.",
+        "prix" : "9,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joe Bryan",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcos Senesi",
+        "nomClubAcheteur" : "AFC Bournemouth",
+        "nomClubVendeur" : "Feyenoord",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gavin Kilkenny",
+        "nomClubAcheteur" : "Stoke City",
+        "nomClubVendeur" : "AFC Bournemouth",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcus Tavernier",
+        "nomClubAcheteur" : "AFC Bournemouth",
+        "nomClubVendeur" : "Middlesbrough",
+        "prix" : "11,90 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Robbie Brady",
+        "nomClubAcheteur" : "Preston NE",
+        "nomClubVendeur" : "AFC Bournemouth",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jack Stephens",
+        "nomClubAcheteur" : "AFC Bournemouth",
+        "nomClubVendeur" : "Southampton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gary Cahill",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "AFC Bournemouth",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Joe Rothwell",
+        "nomClubAcheteur" : "AFC Bournemouth",
+        "nomClubVendeur" : "Blackburn",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Zeno Ibsen Rossi",
+        "nomClubAcheteur" : "Cambridge Utd.",
+        "nomClubVendeur" : "AFC Bournemouth",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Neto",
+        "nomClubAcheteur" : "AFC Bournemouth",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Christian Saydee",
+        "nomClubAcheteur" : "Shrewsbury",
+        "nomClubVendeur" : "AFC Bournemouth",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Aurélien Tchouameni",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "80,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Casemiro",
+        "nomClubAcheteur" : "Manchester Utd.",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "70,65 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonio Rüdiger",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luka Jović",
+        "nomClubAcheteur" : "Fiorentina",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Miguel Gutiérrez",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "RM Castilla",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Borja Mayoral",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonio Blanco",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "RM Castilla",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Reinier",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jules Koundé",
+        "nomClubAcheteur" : "FC Barcelone",
+        "nomClubVendeur" : "FC Sevilla",
+        "prix" : "50,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Philippe Coutinho",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "FC Barcelone",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Raphinha",
+        "nomClubAcheteur" : "FC Barcelone",
+        "nomClubVendeur" : "Leeds United",
+        "prix" : "58,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Francisco Trincão",
+        "nomClubAcheteur" : "Sporting CP",
+        "nomClubVendeur" : "FC Barcelone",
+        "prix" : "Montant du prêt3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Franck Kessié",
+        "nomClubAcheteur" : "FC Barcelone",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico González",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "FC Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Robert Lewandowski",
+        "nomClubAcheteur" : "FC Barcelone",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "45,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergiño Dest",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "FC Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Andreas Christensen",
+        "nomClubAcheteur" : "FC Barcelone",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Pierre-Emerick Aubameyang",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "FC Barcelone",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Reguilón",
+        "nomClubAcheteur" : "Atlético de Madrid",
+        "nomClubVendeur" : "Tottenham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Renan Lodi",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Atlético de Madrid",
+        "prix" : "Montant du prêt5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nahuel Molina",
+        "nomClubAcheteur" : "Atlético de Madrid",
+        "nomClubVendeur" : "Udinese",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Manu Sánchez",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Atlético de Madrid",
+        "prix" : "Montant du prêt200 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Samuel Lino",
+        "nomClubAcheteur" : "Atlético de Madrid",
+        "nomClubVendeur" : "Gil Vicente",
+        "prix" : "6,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luis Suárez",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Atlético de Madrid",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Axel Witsel",
+        "nomClubAcheteur" : "Atlético de Madrid",
+        "nomClubVendeur" : "Bor. Dortmund",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Samuel Lino",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "Atlético de Madrid",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Giuliano Simeone",
+        "nomClubAcheteur" : "Atlético de Madrid",
+        "nomClubVendeur" : "Atl. Madrid B",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Nehuén Pérez",
+        "nomClubAcheteur" : "Udinese",
+        "nomClubVendeur" : "Atlético de Madrid",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Umar Sadiq",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alexander Isak",
+        "nomClubAcheteur" : "Newcastle Utd.",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "70,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Brais Méndez",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "14,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Willian José",
+        "nomClubAcheteur" : "Real Betis",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Momo Cho",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Adnan Januzaj",
+        "nomClubAcheteur" : "FC Sevilla",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Alexander Sörloth",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "Montant du prêt1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Portu",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Takefusa Kubo",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "6,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mathew Ryan",
+        "nomClubAcheteur" : "FC Copenhague",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giovani Lo Celso",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Tottenham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pervis Estupiñán",
+        "nomClubAcheteur" : "Brighton",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "17,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Johan Mojica",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "5,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Boulaye Dia",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "José Luis Morales",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "UD Levante",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Serge Aurier",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Kiko Femenía",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Watford",
+        "prix" : "980 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Paco Alcácer",
+        "nomClubAcheteur" : "Sharjah FC",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolas Jackson",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Villarreal CF B",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Moi Gómez",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "1,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luiz Felipe",
+        "nomClubAcheteur" : "Real Betis Balompié",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Marc Bartra",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "Real Betis Balompié",
+        "prix" : "1,25 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luiz Henrique",
+        "nomClubAcheteur" : "Real Betis Balompié",
+        "nomClubVendeur" : "Fluminense",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cristian Tello",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Real Betis Balompié",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Willian José",
+        "nomClubAcheteur" : "Real Betis Balompié",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Diego Lainez",
+        "nomClubAcheteur" : "SC Braga",
+        "nomClubVendeur" : "Real Betis Balompié",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Raúl García",
+        "nomClubAcheteur" : "Real Betis Balompié",
+        "nomClubVendeur" : "Betis Deportivo",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Rober González",
+        "nomClubAcheteur" : "Alavés",
+        "nomClubVendeur" : "Real Betis Balompié",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico González",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Carlos Soler",
+        "nomClubAcheteur" : "Paris SG",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Justin Kluivert",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gonçalo Guedes",
+        "nomClubAcheteur" : "Wolverhampton",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "32,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hugo Duro",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxi Gómez",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ilaix Moriba",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Uroš Račić",
+        "nomClubAcheteur" : "SC Braga",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "André Almeida",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "Vit. Guimarães",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jasper Cillessen",
+        "nomClubAcheteur" : "NEC Nijmegen",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alex Telles",
+        "nomClubAcheteur" : "Sevilla FC",
+        "nomClubVendeur" : "Manchester Utd.",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jules Koundé",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "Sevilla FC",
+        "prix" : "50,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kasper Dolberg",
+        "nomClubAcheteur" : "Sevilla FC",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Diego Carlos",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Sevilla FC",
+        "prix" : "31,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tanguy Nianzou",
+        "nomClubAcheteur" : "Sevilla FC",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "16,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Ocampos",
+        "nomClubAcheteur" : "Ajax",
+        "nomClubVendeur" : "Sevilla FC",
+        "prix" : "Montant du prêt4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcão",
+        "nomClubAcheteur" : "Sevilla FC",
+        "nomClubVendeur" : "Galatasaray",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Óscar Rodríguez",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "Sevilla FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Adnan Januzaj",
+        "nomClubAcheteur" : "Sevilla FC",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Munir El Haddadi",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Sevilla FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ander Herrera",
+        "nomClubAcheteur" : "Athletic Bilbao",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Unai Núñez",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "Athletic Bilbao",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Julen Agirrezabala",
+        "nomClubAcheteur" : "Athletic Bilbao",
+        "nomClubVendeur" : "Bilbao Athletic",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Unai López",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Athletic Bilbao",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico Serrano",
+        "nomClubAcheteur" : "Athletic Bilbao",
+        "nomClubVendeur" : "Bilbao Athletic",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Iñigo Córdoba",
+        "nomClubAcheteur" : "Fortuna Sittard",
+        "nomClubVendeur" : "Athletic Bilbao",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Juan Artola",
+        "nomClubAcheteur" : "Athletic Bilbao",
+        "nomClubVendeur" : "Bilbao Athletic",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico Serrano",
+        "nomClubAcheteur" : "CD Mirandés",
+        "nomClubVendeur" : "Athletic Bilbao",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gorka Guruzeta",
+        "nomClubAcheteur" : "Athletic Bilbao",
+        "nomClubVendeur" : "SD Amorebieta",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Iñigo Vicente",
+        "nomClubAcheteur" : "Racing ",
+        "nomClubVendeur" : "Athletic Bilbao",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Borja Mayoral",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mathías Olivera",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Omar Alderete",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Hugo Duro",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Portu",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jakub Jankto",
+        "nomClubAcheteur" : "Sparta Prague",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Domingos Duarte",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "FC Granada",
+        "prix" : "750 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jonathan Silva",
+        "nomClubAcheteur" : "FC Granada",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Munir El Haddadi",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "FC Sevilla",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Erick Cabaco",
+        "nomClubAcheteur" : "FC Granada",
+        "nomClubVendeur" : "FC Getafe",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Manu Sánchez",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Atlético Madrid",
+        "prix" : "Montant du prêt200 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Javi Martínez",
+        "nomClubAcheteur" : "Albacete",
+        "nomClubVendeur" : "CA Osasuna",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Moi Gómez",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "1,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cote",
+        "nomClubAcheteur" : "Sporting Gijón",
+        "nomClubVendeur" : "CA Osasuna",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ez Abde",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jonás Ramalho",
+        "nomClubAcheteur" : "Málaga CF",
+        "nomClubVendeur" : "CA Osasuna",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Rubén Peña",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jesús Areso",
+        "nomClubAcheteur" : "Burgos CF",
+        "nomClubVendeur" : "CA Osasuna",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Aitor Fernández",
+        "nomClubAcheteur" : "CA Osasuna",
+        "nomClubVendeur" : "UD Levante",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Iñigo Pérez",
+        "nomClubAcheteur" : "Fin de carrière",
+        "nomClubVendeur" : "CA Osasuna",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Jörgen Strand Larsen",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "FC Groningen",
+        "prix" : "12,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Brais Méndez",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "14,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Óscar Rodríguez",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "FC Sevilla",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Néstor Araújo",
+        "nomClubAcheteur" : "América",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Unai Núñez",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "Athletic",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Orbelín Pineda",
+        "nomClubAcheteur" : "AEK Athènes",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Carles Pérez",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Okay Yokuslu",
+        "nomClubAcheteur" : "West Brom",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Óscar Mingueza",
+        "nomClubAcheteur" : "Celta Vigo",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Rubén Blanco",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "Celta Vigo",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Yangel Herrera",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jairo Izquierdo",
+        "nomClubAcheteur" : "FC Cartagena",
+        "nomClubVendeur" : "Girona FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Taty Castellanos",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "New York City",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Álex Gallar",
+        "nomClubAcheteur" : "Málaga CF",
+        "nomClubVendeur" : "Girona FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Reinier",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "David Juncà",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Girona FC",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Miguel Gutiérrez",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordi Calavera",
+        "nomClubAcheteur" : "CD Lugo",
+        "nomClubVendeur" : "Girona FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Yan Couto",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jonathan Dubasin",
+        "nomClubAcheteur" : "Albacete",
+        "nomClubVendeur" : "Girona FC",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Raúl de Tomás",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Esp. Barcelona",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Zidane",
+        "nomClubAcheteur" : "SD Eibar",
+        "nomClubVendeur" : "Rayo Vallecano",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Unai López",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Athletic",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Iván Arboleda",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Rayo Vallecano",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Camello",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Atlético Madrid",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jorge Moreno",
+        "nomClubAcheteur" : "FC Córdoba",
+        "nomClubVendeur" : "Rayo Vallecano",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdul Mumin",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Vit. Guimarães",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Moreno",
+        "nomClubAcheteur" : "CA Osasuna Prom",
+        "nomClubVendeur" : "Rayo Vallecano",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Salvi Sánchez",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Joni Montiel",
+        "nomClubAcheteur" : "UD Levante",
+        "nomClubVendeur" : "Rayo Vallecano",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Martin Braithwaite",
+        "nomClubAcheteur" : "Espanyol Barcelona",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Raúl de Tomás",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Espanyol Barcelona",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joselu",
+        "nomClubAcheteur" : "Espanyol Barcelona",
+        "nomClubVendeur" : "Alavés",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Matías Vargas",
+        "nomClubAcheteur" : "SH Port",
+        "nomClubVendeur" : "Espanyol Barcelona",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tonny Vilhena",
+        "nomClubAcheteur" : "Espanyol Barcelona",
+        "nomClubVendeur" : "Krasnodar",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tonny Vilhena",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Espanyol Barcelona",
+        "prix" : "Montant du prêt300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Benjamin Lecomte",
+        "nomClubAcheteur" : "Espanyol Barcelona",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Adrián Embarba",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Espanyol Barcelona",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Vinicius Souza",
+        "nomClubAcheteur" : "Espanyol Barcelona",
+        "nomClubVendeur" : "Lommel SK",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Óscar Melendo",
+        "nomClubAcheteur" : "FC Granada",
+        "nomClubVendeur" : "Espanyol Barcelona",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luis Suárez",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Marseille",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Umar Sadiq",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kaiky",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Santos FC",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "José Carlos Lazo",
+        "nomClubAcheteur" : "Esp. Barcelona",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "El Bilal Touré",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nikola Maras",
+        "nomClubAcheteur" : "Alavés",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Lázaro",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Flamengo",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Curro Sánchez",
+        "nomClubAcheteur" : "Burgos CF",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Fernando Pacheco",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Alavés",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Juanjo Nieto",
+        "nomClubAcheteur" : "SD Huesca",
+        "nomClubVendeur" : "UD Almería",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Predrag Rajković",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matthew Hoppe",
+        "nomClubAcheteur" : "Middlesbrough",
+        "nomClubVendeur" : "RCD Mallorca",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Vedat Muriqi",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "7,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Brian Oliván",
+        "nomClubAcheteur" : "Esp. Barcelona",
+        "nomClubVendeur" : "RCD Mallorca",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Tino Kadewere",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Ol. Lyonnais",
+        "prix" : "Montant du prêt400 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joan Sastre",
+        "nomClubAcheteur" : "PAOK Saloniki",
+        "nomClubVendeur" : "RCD Mallorca",
+        "prix" : "400 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Pablo Maffeo",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordi Mboula",
+        "nomClubAcheteur" : "Racing ",
+        "nomClubVendeur" : "RCD Mallorca",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Rodrigo Battaglia",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Aleix Febas",
+        "nomClubAcheteur" : "Málaga CF",
+        "nomClubVendeur" : "RCD Mallorca",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Théo Bongonda",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Jönsson",
+        "nomClubAcheteur" : "AEK Athènes",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonio Blanco",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Salvi Sánchez",
+        "nomClubAcheteur" : "Rayo Vallecano",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Joseba Zaldua",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Sociedad",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Varazdat Haroyan",
+        "nomClubAcheteur" : "Anorthosis",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Rubén Alcaraz",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Carlos Akapo",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Víctor Chust",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alberto Perea",
+        "nomClubAcheteur" : "FC Granada",
+        "nomClubVendeur" : "Cádiz CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kenedy",
+        "nomClubAcheteur" : "Real Valladolid",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rubén Alcaraz",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gonzalo Plata",
+        "nomClubAcheteur" : "Real Valladolid",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Toni Villa",
+        "nomClubAcheteur" : "Girona FC",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergio Asenjo",
+        "nomClubAcheteur" : "Real Valladolid",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Fede San Emeterio",
+        "nomClubAcheteur" : "Cádiz CF",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Monchu",
+        "nomClubAcheteur" : "Real Valladolid",
+        "nomClubVendeur" : "FC Granada",
+        "prix" : "1,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Saidy Janko",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "Montant du prêt300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mickaël Malsa",
+        "nomClubAcheteur" : "Real Valladolid",
+        "nomClubVendeur" : "UD Levante",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kiko Olivas",
+        "nomClubAcheteur" : "FC Cartagena",
+        "nomClubVendeur" : "Real Valladolid",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Pol Lirola",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "Marseille",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Johan Mojica",
+        "nomClubAcheteur" : "Villarreal CF",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "5,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ezequiel Ponce",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "Spartak Moscou",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lautaro Blanco",
+        "nomClubAcheteur" : "Rosario Central",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Roger Martí",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "UD Levante",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Guido Carrillo",
+        "nomClubAcheteur" : "HN S. Longmen",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Álex Collado",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pablo Piatti",
+        "nomClubAcheteur" : "Estudiantes",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolás Fernández Mercau",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "San Lorenzo",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Josema",
+        "nomClubAcheteur" : "CD Leganés",
+        "nomClubVendeur" : "Elche CF",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Charles De Ketelaere",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "FC Bruges",
+        "prix" : "32,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Franck Kessié",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Sergiño Dest",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "Barcelone",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Alessio Romagnoli",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Divock Origi",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "Liverpool",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Petter Hauge",
+        "nomClubAcheteur" : "E. Frankfurt",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Aster Vranckx",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "Montant du prêt2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Samu Castillejo",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Malick Thiaw",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Caldara",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Romelu Lukaku",
+        "nomClubAcheteur" : "Inter Milan",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Montant du prêt7,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Pinamonti",
+        "nomClubAcheteur" : "Sassuolo",
+        "nomClubVendeur" : "Inter Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Joaquín Correa",
+        "nomClubAcheteur" : "Inter Milan",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "23,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ivan Perisic",
+        "nomClubAcheteur" : "Tottenham",
+        "nomClubVendeur" : "Inter Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "André Onana",
+        "nomClubAcheteur" : "Inter Milan",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Zinho Vanheusden",
+        "nomClubAcheteur" : "AZ Alkmaar",
+        "nomClubVendeur" : "Inter Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Kristjan Asllani",
+        "nomClubAcheteur" : "Inter Milan",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "Montant du prêt4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Martín Satriano",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Inter Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Henrikh Mkhitaryan",
+        "nomClubAcheteur" : "Inter Milan",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucien Agoumé",
+        "nomClubAcheteur" : "Troyes",
+        "nomClubVendeur" : "Inter Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Frank Anguissa",
+        "nomClubAcheteur" : "SSC Napoli",
+        "nomClubVendeur" : "FC Fulham",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Fabián Ruiz",
+        "nomClubAcheteur" : "Paris SG",
+        "nomClubVendeur" : "SSC Napoli",
+        "prix" : "23,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tanguy Ndombélé",
+        "nomClubAcheteur" : "SSC Napoli",
+        "nomClubVendeur" : "Tottenham",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalidou Koulibaly",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "SSC Napoli",
+        "prix" : "38,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giacomo Raspadori",
+        "nomClubAcheteur" : "SSC Napoli",
+        "nomClubVendeur" : "Sassuolo",
+        "prix" : "Montant du prêt5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lorenzo Insigne",
+        "nomClubAcheteur" : "Toronto",
+        "nomClubVendeur" : "SSC Napoli",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Min-jae Kim",
+        "nomClubAcheteur" : "SSC Napoli",
+        "nomClubVendeur" : "Fenerbahçe",
+        "prix" : "18,05 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arkadiusz Milik",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "SSC Napoli",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giovanni Simeone",
+        "nomClubAcheteur" : "SSC Napoli",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Petagna",
+        "nomClubAcheteur" : "Monza",
+        "nomClubVendeur" : "SSC Napoli",
+        "prix" : "Montant du prêt2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Federico Chiesa",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Fiorentina",
+        "prix" : "42,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matthijs de Ligt",
+        "nomClubAcheteur" : "Bayern München",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "67,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Paul Pogba",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Manchester Utd.",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Paulo Dybala",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Bremer",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Torino",
+        "prix" : "41,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Denis Zakaria",
+        "nomClubAcheteur" : "Chelsea",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Montant du prêt3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Filip Kostić",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "E. Frankfurt",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Merih Demiral",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Leandro Paredes",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Melo",
+        "nomClubAcheteur" : "Liverpool",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Montant du prêt4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Paulo Dybala",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Cengiz Ünder",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "8,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Belotti",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Torino",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordan Veretout",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Zeki Celik",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Justin Kluivert",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Georginio Wijnaldum",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pau López",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mady Camara",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Olymp. Pirée",
+        "prix" : "Montant du prêt1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Henrikh Mkhitaryan",
+        "nomClubAcheteur" : "Inter",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Merih Demiral",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cristian Romero",
+        "nomClubAcheteur" : "Tottenham",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "50,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jérémie Boga",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Sassuolo",
+        "prix" : "22,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Remo Freuler",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Éderson",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Salernitana",
+        "prix" : "21,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matteo Pessina",
+        "nomClubAcheteur" : "Monza",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Rasmus Höjlund",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Sturm Graz",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Pierluigi Gollini",
+        "nomClubAcheteur" : "Fiorentina",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Montant du prêt490 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ademola Lookman",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Aleksey Miranchuk",
+        "nomClubAcheteur" : "Torino",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Zaccagni",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "7,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joaquín Correa",
+        "nomClubAcheteur" : "Inter",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "23,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alessio Romagnoli",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luiz Felipe",
+        "nomClubAcheteur" : "Real Betis",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luís Maximiano",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "FC Granada",
+        "prix" : "10,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Vedat Muriqi",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "7,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcos Antônio",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "Shakhtar D.",
+        "prix" : "7,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thomas Strakosha",
+        "nomClubAcheteur" : "Brentford",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolò Casale",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Denis Vavro",
+        "nomClubAcheteur" : "FC Copenhague",
+        "nomClubVendeur" : "Lazio Rome",
+        "prix" : "4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dodô",
+        "nomClubAcheteur" : "ACF Fiorentina",
+        "nomClubVendeur" : "Shakhtar D.",
+        "prix" : "14,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Federico Chiesa",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "ACF Fiorentina",
+        "prix" : "42,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonin Barak",
+        "nomClubAcheteur" : "ACF Fiorentina",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt1,46 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Erick Pulgar",
+        "nomClubAcheteur" : "Flamengo",
+        "nomClubVendeur" : "ACF Fiorentina",
+        "prix" : "2,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luka Jović",
+        "nomClubAcheteur" : "ACF Fiorentina",
+        "nomClubVendeur" : "Real Madrid",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Bartlomiej Dragowski",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "ACF Fiorentina",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rolando Mandragora",
+        "nomClubAcheteur" : "ACF Fiorentina",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "8,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jacob Rasmussen",
+        "nomClubAcheteur" : "Feyenoord",
+        "nomClubVendeur" : "ACF Fiorentina",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pierluigi Gollini",
+        "nomClubAcheteur" : "ACF Fiorentina",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Montant du prêt490 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matija Nastasić",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "ACF Fiorentina",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Pinamonti",
+        "nomClubAcheteur" : "US Sassuolo",
+        "nomClubVendeur" : "Inter",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Scamacca",
+        "nomClubAcheteur" : "West Ham Utd.",
+        "nomClubVendeur" : "US Sassuolo",
+        "prix" : "36,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Agustín Álvarez",
+        "nomClubAcheteur" : "US Sassuolo",
+        "nomClubVendeur" : "Peñarol",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giacomo Raspadori",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "US Sassuolo",
+        "prix" : "Montant du prêt5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matheus Henrique",
+        "nomClubAcheteur" : "US Sassuolo",
+        "nomClubVendeur" : "Grêmio",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jérémie Boga",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "US Sassuolo",
+        "prix" : "22,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kristian Thorstvedt",
+        "nomClubAcheteur" : "US Sassuolo",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Odgaard",
+        "nomClubAcheteur" : "AZ Alkmaar",
+        "nomClubVendeur" : "US Sassuolo",
+        "prix" : "4,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Armand Laurienté",
+        "nomClubAcheteur" : "US Sassuolo",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Filip Djuricic",
+        "nomClubAcheteur" : "Sampdoria",
+        "nomClubVendeur" : "US Sassuolo",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nikola Vlasic",
+        "nomClubAcheteur" : "Torino FC",
+        "nomClubVendeur" : "West Ham Utd.",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Bremer",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Torino FC",
+        "prix" : "41,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Samuele Ricci",
+        "nomClubAcheteur" : "Torino FC",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Belotti",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "Torino FC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Aleksey Miranchuk",
+        "nomClubAcheteur" : "Torino FC",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Simone Verdi",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Torino FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Perr Schuurs",
+        "nomClubAcheteur" : "Torino FC",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Armando Izzo",
+        "nomClubAcheteur" : "Monza",
+        "nomClubVendeur" : "Torino FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Valentino Lazaro",
+        "nomClubAcheteur" : "Torino FC",
+        "nomClubVendeur" : "Inter",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jacopo Segre",
+        "nomClubAcheteur" : "Palermo",
+        "nomClubVendeur" : "Torino FC",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hassane Kamara",
+        "nomClubAcheteur" : "Udinese Calcio",
+        "nomClubVendeur" : "Watford",
+        "prix" : "19,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nahuel Molina",
+        "nomClubAcheteur" : "Atlético Madrid",
+        "nomClubVendeur" : "Udinese Calcio",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Udinese Calcio",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Tottenham",
+        "nomClubVendeur" : "Udinese Calcio",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Udinese Calcio",
+        "nomClubVendeur" : "Tottenham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Brandon Soppy",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "Udinese Calcio",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Beto",
+        "nomClubAcheteur" : "Udinese Calcio",
+        "nomClubVendeur" : "Portimonense",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hassane Kamara",
+        "nomClubAcheteur" : "Watford",
+        "nomClubVendeur" : "Udinese Calcio",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nehuén Pérez",
+        "nomClubAcheteur" : "Udinese Calcio",
+        "nomClubVendeur" : "Atlético Madrid",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Mamadou Coulibaly",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Udinese Calcio",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Theate",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "KV Oostende",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Theate",
+        "nomClubAcheteur" : "Rennes",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "19,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joshua Zirkzee",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Aaron Hickey",
+        "nomClubAcheteur" : "Brentford",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "16,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Stefan Posch",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "TSG Hoffenheim",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattias Svanberg",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jhon Lucumí",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Stefano Denswil",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nikola Moro",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "Dinamo Moscou",
+        "prix" : "Montant du prêt1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mitchell Dijks",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Matteo Pessina",
+        "nomClubAcheteur" : "AC Monza",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Leonardo Mancuso",
+        "nomClubAcheteur" : "Como",
+        "nomClubVendeur" : "AC Monza",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Andrea Petagna",
+        "nomClubAcheteur" : "AC Monza",
+        "nomClubVendeur" : "Napoli",
+        "prix" : "Montant du prêt2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Mazzitelli",
+        "nomClubAcheteur" : "Frosinone",
+        "nomClubVendeur" : "AC Monza",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolò Rovella",
+        "nomClubAcheteur" : "AC Monza",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pedro Pereira",
+        "nomClubAcheteur" : "Alanyaspor",
+        "nomClubVendeur" : "AC Monza",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Marlon",
+        "nomClubAcheteur" : "AC Monza",
+        "nomClubVendeur" : "Shakhtar D.",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Davide Bettella",
+        "nomClubAcheteur" : "Palermo",
+        "nomClubVendeur" : "AC Monza",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Caprari",
+        "nomClubAcheteur" : "AC Monza",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Davide Diaw",
+        "nomClubAcheteur" : "Modena",
+        "nomClubVendeur" : "AC Monza",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Krzysztof Piatek",
+        "nomClubAcheteur" : "US Salernitana 1919",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Éderson",
+        "nomClubAcheteur" : "Atalanta BC",
+        "nomClubVendeur" : "US Salernitana 1919",
+        "prix" : "21,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Boulaye Dia",
+        "nomClubAcheteur" : "US Salernitana 1919",
+        "nomClubVendeur" : "Villarreal CF",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mamadou Coulibaly",
+        "nomClubAcheteur" : "Ternana",
+        "nomClubVendeur" : "US Salernitana 1919",
+        "prix" : "Montant du prêt100 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giulio Maggiore",
+        "nomClubAcheteur" : "US Salernitana 1919",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mikael",
+        "nomClubAcheteur" : "Internacional",
+        "nomClubVendeur" : "US Salernitana 1919",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Flavius Daniliuc",
+        "nomClubAcheteur" : "US Salernitana 1919",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Simy",
+        "nomClubAcheteur" : "Benevento",
+        "nomClubVendeur" : "US Salernitana 1919",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Matteo Lovato",
+        "nomClubAcheteur" : "US Salernitana 1919",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Milan Djuric",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "US Salernitana 1919",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Razvan Marin",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Cagliari",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Viti",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Guglielmo Vicario",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Cagliari",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Samuele Ricci",
+        "nomClubAcheteur" : "Torino",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Martín Satriano",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Inter",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Kristjan Asllani",
+        "nomClubAcheteur" : "Inter",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "Montant du prêt4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sebastian Walukiewicz",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Cagliari",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Leonardo Mancuso",
+        "nomClubAcheteur" : "Monza",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marko Pjaca",
+        "nomClubAcheteur" : "FC Empoli",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Sebastiano Luperto",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Giovanni Simeone",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Cagliari",
+        "prix" : "10,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Antonin Barak",
+        "nomClubAcheteur" : "Fiorentina",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt1,46 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Caprari",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Sampdoria",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Zaccagni",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "7,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thomas Henry",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Venezia",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giovanni Simeone",
+        "nomClubAcheteur" : "Napoli",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Simone Verdi",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Torino",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Destiny Udogie",
+        "nomClubAcheteur" : "Udinese",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lorenzo Montipò",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Benevento",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Caprari",
+        "nomClubAcheteur" : "Monza",
+        "nomClubVendeur" : "Hellas Verona",
+        "prix" : "Montant du prêt3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marco Carnesecchi",
+        "nomClubAcheteur" : "US Cremonese",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Valzania",
+        "nomClubAcheteur" : "SPAL",
+        "nomClubVendeur" : "US Cremonese",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Cyriel Dessers",
+        "nomClubAcheteur" : "US Cremonese",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "6,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cedric Gondo",
+        "nomClubAcheteur" : "Ascoli",
+        "nomClubVendeur" : "US Cremonese",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Santiago Ascacíbar",
+        "nomClubAcheteur" : "US Cremonese",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Samuel Di Carmine",
+        "nomClubAcheteur" : "Perugia",
+        "nomClubVendeur" : "US Cremonese",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Felix Afena-Gyan",
+        "nomClubAcheteur" : "US Cremonese",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Strizzolo",
+        "nomClubAcheteur" : "Perugia",
+        "nomClubVendeur" : "US Cremonese",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Soualiho Meïté",
+        "nomClubAcheteur" : "US Cremonese",
+        "nomClubVendeur" : "Benfica",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Paolo Bartolomei",
+        "nomClubAcheteur" : "Perugia",
+        "nomClubVendeur" : "US Cremonese",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Marin Pongracic",
+        "nomClubAcheteur" : "US Lecce",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Frabotta",
+        "nomClubAcheteur" : "Frosinone",
+        "nomClubVendeur" : "US Lecce",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Rémi Oudin",
+        "nomClubAcheteur" : "US Lecce",
+        "nomClubVendeur" : "G. Bordeaux",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Francesco Di Mariano",
+        "nomClubAcheteur" : "Palermo",
+        "nomClubVendeur" : "US Lecce",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Giuseppe Pezzella",
+        "nomClubAcheteur" : "US Lecce",
+        "nomClubVendeur" : "Parma",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Zan Majer",
+        "nomClubAcheteur" : "Reggina",
+        "nomClubVendeur" : "US Lecce",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Lorenzo Colombo",
+        "nomClubAcheteur" : "US Lecce",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mario Gargiulo",
+        "nomClubAcheteur" : "Modena",
+        "nomClubVendeur" : "US Lecce",
+        "prix" : "750 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wladimiro Falcone",
+        "nomClubAcheteur" : "US Lecce",
+        "nomClubVendeur" : "Sampdoria",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gabriel",
+        "nomClubAcheteur" : "Coritiba FC",
+        "nomClubVendeur" : "US Lecce",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ethan Ampadu",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Giulio Maggiore",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Bartlomiej Dragowski",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "Fiorentina",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Janis Antiste",
+        "nomClubAcheteur" : "Sassuolo",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Kevin Agudelo",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "Genoa",
+        "prix" : "2,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ivan Provedel",
+        "nomClubAcheteur" : "Lazio Rome",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Caldara",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Léo Sena",
+        "nomClubAcheteur" : "Goiás EC",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Arkadiusz Reca",
+        "nomClubAcheteur" : "Spezia Calcio",
+        "nomClubVendeur" : "Atalanta BC",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Vignali",
+        "nomClubAcheteur" : "Como",
+        "nomClubVendeur" : "Spezia Calcio",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Harry Winks",
+        "nomClubAcheteur" : "UC Sampdoria",
+        "nomClubVendeur" : "Tottenham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mikkel Damsgaard",
+        "nomClubAcheteur" : "Brentford",
+        "nomClubVendeur" : "UC Sampdoria",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gonzalo Villar",
+        "nomClubAcheteur" : "UC Sampdoria",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gianluca Caprari",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "UC Sampdoria",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Filip Djuricic",
+        "nomClubAcheteur" : "UC Sampdoria",
+        "nomClubVendeur" : "Sassuolo",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Morten Thorsby",
+        "nomClubAcheteur" : "Union Berlin",
+        "nomClubVendeur" : "UC Sampdoria",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Francesco Caputo",
+        "nomClubAcheteur" : "UC Sampdoria",
+        "nomClubVendeur" : "Sassuolo",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Federico Bonazzoli",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "UC Sampdoria",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdelhamid Sabiri",
+        "nomClubAcheteur" : "UC Sampdoria",
+        "nomClubVendeur" : "Ascoli",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wladimiro Falcone",
+        "nomClubAcheteur" : "Lecce",
+        "nomClubVendeur" : "UC Sampdoria",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Sadio Mané",
+        "nomClubAcheteur" : "FC Bayern München",
+        "nomClubVendeur" : "Liverpool",
+        "prix" : "32,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Robert Lewandowski",
+        "nomClubAcheteur" : "Barcelone",
+        "nomClubVendeur" : "FC Bayern München",
+        "prix" : "45,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Matthijs de Ligt",
+        "nomClubAcheteur" : "FC Bayern München",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "67,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Niklas Süle",
+        "nomClubAcheteur" : "Bor. Dortmund",
+        "nomClubVendeur" : "FC Bayern München",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ryan Gravenberch",
+        "nomClubAcheteur" : "FC Bayern München",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "18,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tanguy Nianzou",
+        "nomClubAcheteur" : "FC Sevilla",
+        "nomClubVendeur" : "FC Bayern München",
+        "prix" : "16,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Noussair Mazraoui",
+        "nomClubAcheteur" : "FC Bayern München",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Corentin Tolisso",
+        "nomClubAcheteur" : "Ol. Lyonnais",
+        "nomClubVendeur" : "FC Bayern München",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mathys Tel",
+        "nomClubAcheteur" : "FC Bayern München",
+        "nomClubVendeur" : "Rennes",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marc Roca",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "FC Bayern München",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Niklas Süle",
+        "nomClubAcheteur" : "Borussia Dortmund",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Erling Haaland",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Borussia Dortmund",
+        "prix" : "60,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sébastien Haller",
+        "nomClubAcheteur" : "Borussia Dortmund",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "31,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Manuel Akanji",
+        "nomClubAcheteur" : "Manchester City",
+        "nomClubVendeur" : "Borussia Dortmund",
+        "prix" : "17,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Karim Adeyemi",
+        "nomClubAcheteur" : "Borussia Dortmund",
+        "nomClubVendeur" : "RB Salzbourg",
+        "prix" : "30,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dan-Axel Zagadou",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Borussia Dortmund",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico Schlotterbeck",
+        "nomClubAcheteur" : "Borussia Dortmund",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Axel Witsel",
+        "nomClubAcheteur" : "Atlético Madrid",
+        "nomClubVendeur" : "Borussia Dortmund",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Salih Özcan",
+        "nomClubAcheteur" : "Borussia Dortmund",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Roman Bürki",
+        "nomClubAcheteur" : "St. Louis CITY",
+        "nomClubVendeur" : "Borussia Dortmund",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Timo Werner",
+        "nomClubAcheteur" : "RasenBallsport Leipzig",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Angeliño",
+        "nomClubAcheteur" : "TSG Hoffenheim",
+        "nomClubVendeur" : "RasenBallsport Leipzig",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Xaver Schlager",
+        "nomClubAcheteur" : "RasenBallsport Leipzig",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nordi Mukiele",
+        "nomClubAcheteur" : "Paris SG",
+        "nomClubVendeur" : "RasenBallsport Leipzig",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "David Raum",
+        "nomClubAcheteur" : "RasenBallsport Leipzig",
+        "nomClubVendeur" : "TSG Hoffenheim",
+        "prix" : "26,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tyler Adams",
+        "nomClubAcheteur" : "Leeds United",
+        "nomClubVendeur" : "RasenBallsport Leipzig",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdou Diallo",
+        "nomClubAcheteur" : "RasenBallsport Leipzig",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "Montant du prêt1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hee-chan Hwang",
+        "nomClubAcheteur" : "Wolverhampton",
+        "nomClubVendeur" : "RasenBallsport Leipzig",
+        "prix" : "16,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Janis Blaswich",
+        "nomClubAcheteur" : "RasenBallsport Leipzig",
+        "nomClubVendeur" : "Almelo",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Brian Brobbey",
+        "nomClubAcheteur" : "Ajax",
+        "nomClubVendeur" : "RasenBallsport Leipzig",
+        "prix" : "16,35 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Callum Hudson-Odoi",
+        "nomClubAcheteur" : "Bayer 04 Leverkusen",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Alario",
+        "nomClubAcheteur" : "E. Frankfurt",
+        "nomClubVendeur" : "Bayer 04 Leverkusen",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Adam Hlozek",
+        "nomClubAcheteur" : "Bayer 04 Leverkusen",
+        "nomClubVendeur" : "Sparta Prague",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Paulinho",
+        "nomClubAcheteur" : "Atlético-MG",
+        "nomClubVendeur" : "Bayer 04 Leverkusen",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Sadik Fofana",
+        "nomClubAcheteur" : "Bayer 04 Leverkusen",
+        "nomClubVendeur" : "Leverkusen U19",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Joel Pohjanpalo",
+        "nomClubAcheteur" : "Venezia",
+        "nomClubVendeur" : "Bayer 04 Leverkusen",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Joshua Eze",
+        "nomClubAcheteur" : "Bayer 04 Leverkusen",
+        "nomClubVendeur" : "Leverkusen U19",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Mitchell Weiser",
+        "nomClubAcheteur" : "Werder Bremen",
+        "nomClubVendeur" : "Bayer 04 Leverkusen",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Randal Kolo Muani",
+        "nomClubAcheteur" : "Eintracht Frankfurt",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Filip Kostić",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Eintracht Frankfurt",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Petter Hauge",
+        "nomClubAcheteur" : "Eintracht Frankfurt",
+        "nomClubVendeur" : "AC Milan",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Petter Hauge",
+        "nomClubAcheteur" : "La Gantoise",
+        "nomClubVendeur" : "Eintracht Frankfurt",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mario Götze",
+        "nomClubAcheteur" : "Eintracht Frankfurt",
+        "nomClubVendeur" : "PSV Eindhoven",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dominik Kohr",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "Eintracht Frankfurt",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kristijan Jakic",
+        "nomClubAcheteur" : "Eintracht Frankfurt",
+        "nomClubVendeur" : "Dinamo Zagreb",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rodrigo Zalazar",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Eintracht Frankfurt",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Pellegrini",
+        "nomClubAcheteur" : "Eintracht Frankfurt",
+        "nomClubVendeur" : "Juventus Turin",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Ajdin Hrustic",
+        "nomClubAcheteur" : "Hellas Verona",
+        "nomClubVendeur" : "Eintracht Frankfurt",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Julian Weigl",
+        "nomClubAcheteur" : "Borussia Mönchengladbach",
+        "nomClubVendeur" : "Benfica",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Matthias Ginter",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "Borussia Mönchengladbach",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nathan Ngoumou",
+        "nomClubAcheteur" : "Borussia Mönchengladbach",
+        "nomClubVendeur" : "Toulouse",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Breel Embolo",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "Borussia Mönchengladbach",
+        "prix" : "12,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ko Itakura",
+        "nomClubAcheteur" : "Borussia Mönchengladbach",
+        "nomClubVendeur" : "Manchester City",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordan Beyer",
+        "nomClubAcheteur" : "Burnley FC",
+        "nomClubVendeur" : "Borussia Mönchengladbach",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Oscar Fraulo",
+        "nomClubAcheteur" : "Borussia Mönchengladbach",
+        "nomClubVendeur" : "FC Midtjylland",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "László Bénes",
+        "nomClubAcheteur" : "Hamburger SV",
+        "nomClubVendeur" : "Borussia Mönchengladbach",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yvandro Borges Sanches",
+        "nomClubAcheteur" : "Borussia Mönchengladbach",
+        "nomClubVendeur" : "M'gladbach U19",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Keanan Bennetts",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Borussia Mönchengladbach",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattias Svanberg",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Xaver Schlager",
+        "nomClubAcheteur" : "RB Leipzig",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jakub Kaminski",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "Lech Poznan",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Aster Vranckx",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "Montant du prêt2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Patrick Wimmer",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "Arm. Bielefeld",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kevin Mbabu",
+        "nomClubAcheteur" : "FC Fulham",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "5,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Bartol Franjic",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "Dinamo Zagreb",
+        "prix" : "7,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "John Anthony Brooks",
+        "nomClubAcheteur" : "Benfica",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kilian Fischer",
+        "nomClubAcheteur" : "VfL Wolfsburg",
+        "nomClubVendeur" : "1.FC Nürnberg",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marin Pongracic",
+        "nomClubAcheteur" : "Lecce",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Matthias Ginter",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "Bor. M'gladbach",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nico Schlotterbeck",
+        "nomClubAcheteur" : "Bor. Dortmund",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ritsu Doan",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "PSV Eindhoven",
+        "prix" : "8,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ermedin Demirovic",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Daniel-Kofi Kyereh",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "FC St. Pauli",
+        "prix" : "4,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Janik Haberer",
+        "nomClubAcheteur" : "Union Berlin",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Michael Gregoritsch",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Itter",
+        "nomClubAcheteur" : "Greuther Fürth",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Merlin Röhl",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "FC Ingolstadt",
+        "prix" : "2,90 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nishan Burkart",
+        "nomClubAcheteur" : "FC Winterthur",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "Montant du prêt25 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Angeliño",
+        "nomClubAcheteur" : "TSG 1899 Hoffenheim",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "David Raum",
+        "nomClubAcheteur" : "RB Leipzig",
+        "nomClubVendeur" : "TSG 1899 Hoffenheim",
+        "prix" : "26,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Stanley Nsoki",
+        "nomClubAcheteur" : "TSG 1899 Hoffenheim",
+        "nomClubVendeur" : "FC Bruges",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Florian Grillitsch",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "TSG 1899 Hoffenheim",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Ozan Kabak",
+        "nomClubAcheteur" : "TSG 1899 Hoffenheim",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Diadié Samassékou",
+        "nomClubAcheteur" : "Olymp. Pirée",
+        "nomClubVendeur" : "TSG 1899 Hoffenheim",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Grischa Prömel",
+        "nomClubAcheteur" : "TSG 1899 Hoffenheim",
+        "nomClubVendeur" : "Union Berlin",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Stefan Posch",
+        "nomClubAcheteur" : "FC Bologna",
+        "nomClubVendeur" : "TSG 1899 Hoffenheim",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Eduardo Quaresma",
+        "nomClubAcheteur" : "TSG 1899 Hoffenheim",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Sargis Adamyan",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "TSG 1899 Hoffenheim",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Konstantinos Mavropanos",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "3,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sasa Kalajdzic",
+        "nomClubAcheteur" : "Wolverhampton",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Serhou Guirassy",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "Rennes",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Orel Mangala",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dan-Axel Zagadou",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "Sans club",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Pablo Maffeo",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hiroki Ito",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "Júbilo Iwata",
+        "prix" : "400 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Darko Churlinov",
+        "nomClubAcheteur" : "Burnley FC",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Josha Vagnoman",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "Hamburger SV",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wahid Faghir",
+        "nomClubAcheteur" : "Nordsjaelland",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordan",
+        "nomClubAcheteur" : "1.FC Union Berlin",
+        "nomClubVendeur" : "BSC Young Boys",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Taiwo Awoniyi",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "1.FC Union Berlin",
+        "prix" : "20,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Diogo Leite",
+        "nomClubAcheteur" : "1.FC Union Berlin",
+        "nomClubVendeur" : "FC Porto",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Grischa Prömel",
+        "nomClubAcheteur" : "TSG Hoffenheim",
+        "nomClubVendeur" : "1.FC Union Berlin",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Morten Thorsby",
+        "nomClubAcheteur" : "1.FC Union Berlin",
+        "nomClubVendeur" : "Sampdoria",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dominique Heintz",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "1.FC Union Berlin",
+        "prix" : "Montant du prêt600 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jamie Leweling",
+        "nomClubAcheteur" : "1.FC Union Berlin",
+        "nomClubVendeur" : "Greuther Fürth",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcus Ingvartsen",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "1.FC Union Berlin",
+        "prix" : "2,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Danilho Doekhi",
+        "nomClubAcheteur" : "1.FC Union Berlin",
+        "nomClubVendeur" : "Vitesse",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Rick van Drongelen",
+        "nomClubAcheteur" : "Hansa Rostock",
+        "nomClubVendeur" : "1.FC Union Berlin",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Angelo Fulgini",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Moussa Niakhaté",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Anthony Caci",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "R. Strasbourg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jeremiah St. Juste",
+        "nomClubAcheteur" : "Sporting CP",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "9,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dominik Kohr",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "E. Frankfurt",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ronaël Pierre-Gabriel",
+        "nomClubAcheteur" : "R. Strasbourg",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxim Leitsch",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Kilian",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Marcus Ingvartsen",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "Union Berlin",
+        "prix" : "2,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean-Paul Boëtius",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Chidera Ejuke",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "CSKA Moscou",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Krzysztof Piatek",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Filip Uremovic",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "Rubin Kazan",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Omar Alderete",
+        "nomClubAcheteur" : "FC Getafe",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Agustín Rogel",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "Estudiantes",
+        "prix" : "400 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Niklas Stark",
+        "nomClubAcheteur" : "Werder Bremen",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ivan Sunjic",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "Birmingham",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Santiago Ascacíbar",
+        "nomClubAcheteur" : "Cremonese",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean-Paul Boëtius",
+        "nomClubAcheteur" : "Hertha BSC",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Javairô Dilrosun",
+        "nomClubAcheteur" : "Feyenoord",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ermedin Demirovic",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "SC Fribourg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ricardo Pepi",
+        "nomClubAcheteur" : "FC Groningen",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mergim Berisha",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "Fenerbahçe",
+        "prix" : "Montant du prêt300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Michael Gregoritsch",
+        "nomClubAcheteur" : "SC Fribourg",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Arne Maier",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lasse Günther",
+        "nomClubAcheteur" : "Jahn Regensburg",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Montant du prêt100 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Elvis Rexhbecaj",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "VfL Wolfsburg",
+        "prix" : "1,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alfred Finnbogason",
+        "nomClubAcheteur" : "Lyngby BK",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Maximilian Bauer",
+        "nomClubAcheteur" : "FC Augsburg",
+        "nomClubVendeur" : "Greuther Fürth",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jan Moravek",
+        "nomClubAcheteur" : "Bohemians 1905",
+        "nomClubVendeur" : "FC Augsburg",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Kilian",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Salih Özcan",
+        "nomClubAcheteur" : "Bor. Dortmund",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sargis Adamyan",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "TSG Hoffenheim",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Anthony Modeste",
+        "nomClubAcheteur" : "Bor. Dortmund",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "5,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kristian Pedersen",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "Birmingham",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Louis Schaub",
+        "nomClubAcheteur" : "Hannover 96",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Eric Martel",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "1,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jannes Horn",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Linton Maina",
+        "nomClubAcheteur" : "1. FC Köln",
+        "nomClubVendeur" : "Hannover 96",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kingsley Ehizibue",
+        "nomClubAcheteur" : "Udinese",
+        "nomClubVendeur" : "1. FC Köln",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Niklas Stark",
+        "nomClubAcheteur" : "SV Werder Bremen",
+        "nomClubVendeur" : "Hertha BSC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Maik Nawrocki",
+        "nomClubAcheteur" : "Legia Varsovie",
+        "nomClubVendeur" : "SV Werder Bremen",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Amos Pieper",
+        "nomClubAcheteur" : "SV Werder Bremen",
+        "nomClubVendeur" : "Arm. Bielefeld",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ömer Toprak",
+        "nomClubAcheteur" : "Antalyaspor",
+        "nomClubVendeur" : "SV Werder Bremen",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Oliver Burke",
+        "nomClubAcheteur" : "SV Werder Bremen",
+        "nomClubVendeur" : "Sheff Utd",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jan-Niklas Beste",
+        "nomClubAcheteur" : "1.FC Heidenheim",
+        "nomClubVendeur" : "SV Werder Bremen",
+        "prix" : "350 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jens Stage",
+        "nomClubAcheteur" : "SV Werder Bremen",
+        "nomClubVendeur" : "FC Copenhague",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nick Woltemade",
+        "nomClubAcheteur" : "SV Elversberg",
+        "nomClubVendeur" : "SV Werder Bremen",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Lee Buchanan",
+        "nomClubAcheteur" : "SV Werder Bremen",
+        "nomClubVendeur" : "Derby",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Luca Plogmann",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "SV Werder Bremen",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordan Larsson",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Spartak Moscou",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ozan Kabak",
+        "nomClubAcheteur" : "TSG Hoffenheim",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alex Kral",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Spartak Moscou",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Amine Harit",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Florent Mollet",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Montpellier",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Malick Thiaw",
+        "nomClubAcheteur" : "AC Milan",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sepp van den Berg",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Liverpool",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Can Bozdogan",
+        "nomClubAcheteur" : "FC Utrecht",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tom Krauß",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "Montant du prêt600 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rabbi Matondo",
+        "nomClubAcheteur" : "Glasgow Rangers",
+        "nomClubVendeur" : "FC Schalke 04",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lys Mousset",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "Sheff Utd",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Armel Bella-Kotchap",
+        "nomClubAcheteur" : "Southampton",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ivan Ordets",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "Dinamo Moscou",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxim Leitsch",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Philipp Förster",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "VfB Stuttgart",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Milos Pantovic",
+        "nomClubAcheteur" : "Union Berlin",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Dominique Heintz",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "Union Berlin",
+        "prix" : "Montant du prêt600 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sebastian Polter",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Philipp Hofmann",
+        "nomClubAcheteur" : "VfL Bochum",
+        "nomClubVendeur" : "Karlsruher SC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jürgen Locadia",
+        "nomClubAcheteur" : "Persepolis",
+        "nomClubVendeur" : "VfL Bochum",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Fabián Ruiz",
+        "nomClubAcheteur" : "Paris Saint-Germain",
+        "nomClubVendeur" : "Napoli",
+        "prix" : "23,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mauro Icardi",
+        "nomClubAcheteur" : "Galatasaray",
+        "nomClubVendeur" : "Paris Saint-Germain",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Carlos Soler",
+        "nomClubAcheteur" : "Paris Saint-Germain",
+        "nomClubVendeur" : "FC Valencia",
+        "prix" : "18,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thilo Kehrer",
+        "nomClubAcheteur" : "West Ham Utd.",
+        "nomClubVendeur" : "Paris Saint-Germain",
+        "prix" : "12,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Vitinha",
+        "nomClubAcheteur" : "Paris Saint-Germain",
+        "nomClubVendeur" : "FC Porto",
+        "prix" : "41,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arnaud Kalimuendo",
+        "nomClubAcheteur" : "Rennes",
+        "nomClubVendeur" : "Paris Saint-Germain",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nuno Mendes",
+        "nomClubAcheteur" : "Paris Saint-Germain",
+        "nomClubVendeur" : "Sporting CP",
+        "prix" : "38,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Julian Draxler",
+        "nomClubAcheteur" : "Benfica",
+        "nomClubVendeur" : "Paris Saint-Germain",
+        "prix" : "Montant du prêt2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hugo Ekitiké",
+        "nomClubAcheteur" : "Paris Saint-Germain",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdou Diallo",
+        "nomClubAcheteur" : "RB Leipzig",
+        "nomClubVendeur" : "Paris Saint-Germain",
+        "prix" : "Montant du prêt1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mohamed Camara",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "RB Salzbourg",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Aurélien Tchouameni",
+        "nomClubAcheteur" : "Real Madrid",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "80,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Takumi Minamino",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "Liverpool",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sofiane Diop",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "22,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Breel Embolo",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "Bor. M'gladbach",
+        "prix" : "12,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Djibril Sidibé",
+        "nomClubAcheteur" : "AEK Athènes",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Malang Sarr",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "Chelsea",
+        "prix" : "Montant du prêt1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Strahinja Pavlovic",
+        "nomClubAcheteur" : "RB Salzbourg",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thomas Didillon",
+        "nomClubAcheteur" : "AS Monaco",
+        "nomClubVendeur" : "Cercle Brugge",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pietro Pellegri",
+        "nomClubAcheteur" : "Torino",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Amine Gouiri",
+        "nomClubAcheteur" : "Stade Rennais FC",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "28,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nayef Aguerd",
+        "nomClubAcheteur" : "West Ham Utd.",
+        "nomClubVendeur" : "Stade Rennais FC",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arnaud Kalimuendo",
+        "nomClubAcheteur" : "Stade Rennais FC",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mathys Tel",
+        "nomClubAcheteur" : "Bayern München",
+        "nomClubVendeur" : "Stade Rennais FC",
+        "prix" : "20,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arthur Theate",
+        "nomClubAcheteur" : "Stade Rennais FC",
+        "nomClubVendeur" : "FC Bologna",
+        "prix" : "19,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Gaëtan Laborde",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "Stade Rennais FC",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Christopher Wooh",
+        "nomClubAcheteur" : "Stade Rennais FC",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Loïc Badé",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "Stade Rennais FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Xeka",
+        "nomClubAcheteur" : "Stade Rennais FC",
+        "nomClubVendeur" : "Sans club",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Serhou Guirassy",
+        "nomClubAcheteur" : "VfB Stuttgart",
+        "nomClubVendeur" : "Stade Rennais FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Alexandre Lacazette",
+        "nomClubAcheteur" : "Olympique Lyonnais",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Paquetá",
+        "nomClubAcheteur" : "West Ham Utd.",
+        "nomClubVendeur" : "Olympique Lyonnais",
+        "prix" : "42,95 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Corentin Tolisso",
+        "nomClubAcheteur" : "Olympique Lyonnais",
+        "nomClubVendeur" : "Bayern München",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jason Denayer",
+        "nomClubAcheteur" : "Shabab Dubai",
+        "nomClubVendeur" : "Olympique Lyonnais",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolás Tagliafico",
+        "nomClubAcheteur" : "Olympique Lyonnais",
+        "nomClubVendeur" : "Ajax",
+        "prix" : "4,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Léo Dubois",
+        "nomClubAcheteur" : "Galatasaray",
+        "nomClubVendeur" : "Olympique Lyonnais",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Johann Lepenant",
+        "nomClubAcheteur" : "Olympique Lyonnais",
+        "nomClubVendeur" : "SM Caen",
+        "prix" : "4,25 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Tino Kadewere",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Olympique Lyonnais",
+        "prix" : "Montant du prêt400 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Saël Kumbedi",
+        "nomClubAcheteur" : "Olympique Lyonnais",
+        "nomClubVendeur" : "AC Le Havre",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cenk Özkacar",
+        "nomClubAcheteur" : "FC Valencia",
+        "nomClubVendeur" : "Olympique Lyonnais",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattéo Guendouzi",
+        "nomClubAcheteur" : "Olympique de Marseille",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Boubacar Kamara",
+        "nomClubAcheteur" : "Aston Villa",
+        "nomClubVendeur" : "Olympique de Marseille",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Cengiz Ünder",
+        "nomClubAcheteur" : "Olympique de Marseille",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "8,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Arkadiusz Milik",
+        "nomClubAcheteur" : "Juventus Turin",
+        "nomClubVendeur" : "Olympique de Marseille",
+        "prix" : "Montant du prêt750 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Chancel Mbemba",
+        "nomClubAcheteur" : "Olympique de Marseille",
+        "nomClubVendeur" : "FC Porto",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Duje Caleta-Car",
+        "nomClubAcheteur" : "Southampton",
+        "nomClubVendeur" : "Olympique de Marseille",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jordan Veretout",
+        "nomClubAcheteur" : "Olympique de Marseille",
+        "nomClubVendeur" : "AS Roma",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Luis Suárez",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Olympique de Marseille",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Arkadiusz Milik",
+        "nomClubAcheteur" : "Olympique de Marseille",
+        "nomClubVendeur" : "Napoli",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Pol Lirola",
+        "nomClubAcheteur" : "Elche CF",
+        "nomClubVendeur" : "Olympique de Marseille",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nicolas Pépé",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Arsenal",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Amine Gouiri",
+        "nomClubAcheteur" : "Rennes",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "28,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sofiane Diop",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "22,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kasper Dolberg",
+        "nomClubAcheteur" : "FC Sevilla",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gaëtan Laborde",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "Rennes",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Walter Benítez",
+        "nomClubAcheteur" : "PSV Eindhoven",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mattia Viti",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "FC Empoli",
+        "prix" : "13,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Calvin Stengs",
+        "nomClubAcheteur" : "Royal Antwerp",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Ross Barkley",
+        "nomClubAcheteur" : "OGC Nice",
+        "nomClubVendeur" : "Sans club",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Flavius Daniliuc",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "André Gomes",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "FC Everton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Sven Botman",
+        "nomClubAcheteur" : "Newcastle Utd.",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "37,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mohamed Bayo",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Clermont Foot",
+        "prix" : "14,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Amadou Onana",
+        "nomClubAcheteur" : "FC Everton",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "35,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Adam Ounas",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Napoli",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Renato Sanches",
+        "nomClubAcheteur" : "Paris SG",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "15,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rémy Cabella",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Montpellier",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Zeki Celik",
+        "nomClubAcheteur" : "AS Roma",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "7,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Akim Zedadka",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Clermont Foot",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Yusuf Yazici",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Loïs Openda",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "FC Bruges",
+        "prix" : "9,80 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cheick Doucouré",
+        "nomClubAcheteur" : "Crystal Palace",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "22,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Adam Buksa",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "New England",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jonathan Clauss",
+        "nomClubAcheteur" : "Marseille",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "7,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alexis Claude-Maurice",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Christopher Wooh",
+        "nomClubAcheteur" : "Rennes",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "9,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jimmy Cabot",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Simon Banza",
+        "nomClubAcheteur" : "SC Braga",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Salis Abdul Samed",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "Clermont Foot",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ignatius Ganago",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "4,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Christopher Jullien",
+        "nomClubAcheteur" : "Montpellier Hérault SC",
+        "nomClubVendeur" : "Celtic Glasgow",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Rémy Cabella",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Montpellier Hérault SC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Arnaud Nordin",
+        "nomClubAcheteur" : "Montpellier Hérault SC",
+        "nomClubVendeur" : "Saint-Étienne",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Florent Mollet",
+        "nomClubAcheteur" : "FC Schalke 04",
+        "nomClubVendeur" : "Montpellier Hérault SC",
+        "prix" : "500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wahbi Khazri",
+        "nomClubAcheteur" : "Montpellier Hérault SC",
+        "nomClubVendeur" : "Saint-Étienne",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Junior Sambia",
+        "nomClubAcheteur" : "Salernitana",
+        "nomClubVendeur" : "Montpellier Hérault SC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Falaye Sacko",
+        "nomClubAcheteur" : "Montpellier Hérault SC",
+        "nomClubVendeur" : "Vit. Guimarães",
+        "prix" : "Montant du prêt500 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mihailo Ristić",
+        "nomClubAcheteur" : "Benfica",
+        "nomClubVendeur" : "Montpellier Hérault SC",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Faitout Maouassa",
+        "nomClubAcheteur" : "Montpellier Hérault SC",
+        "nomClubVendeur" : "FC Bruges",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Ambroise Oyongo",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Montpellier Hérault SC",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Fabien Centonze",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "FC Metz",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Randal Kolo Muani",
+        "nomClubAcheteur" : "E. Frankfurt",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mostafa Mohamed",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "Galatasaray",
+        "prix" : "Montant du prêt250 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean-Kévin Augustin",
+        "nomClubAcheteur" : "FC Bâle",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ignatius Ganago",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "RC Lens",
+        "prix" : "4,40 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalifa Coulibaly",
+        "nomClubAcheteur" : "Etoile Rouge",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Moussa Sissoko",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "Watford",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Roli Pereira de Sa",
+        "nomClubAcheteur" : "FC Sochaux",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Evann Guessand",
+        "nomClubAcheteur" : "FC Nantes",
+        "nomClubVendeur" : "OGC Nice",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Bridge Ndilu",
+        "nomClubAcheteur" : "SO Cholet",
+        "nomClubVendeur" : "FC Nantes",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Colin Dagba",
+        "nomClubAcheteur" : "RC Strasbourg Alsace",
+        "nomClubVendeur" : "Paris SG",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Anthony Caci",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "RC Strasbourg Alsace",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucas Perrin",
+        "nomClubAcheteur" : "RC Strasbourg Alsace",
+        "nomClubVendeur" : "Marseille",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Mahamé Siby",
+        "nomClubAcheteur" : "Malmö FF",
+        "nomClubVendeur" : "RC Strasbourg Alsace",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ronaël Pierre-Gabriel",
+        "nomClubAcheteur" : "RC Strasbourg Alsace",
+        "nomClubVendeur" : "1.FSV Mainz 05",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mehdi Chahiri",
+        "nomClubAcheteur" : "Paris FC",
+        "nomClubVendeur" : "RC Strasbourg Alsace",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jean-Eudes Aholou",
+        "nomClubAcheteur" : "RC Strasbourg Alsace",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Majeed Waris",
+        "nomClubAcheteur" : "Anorthosis",
+        "nomClubVendeur" : "RC Strasbourg Alsace",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Thomas Delaine",
+        "nomClubAcheteur" : "RC Strasbourg Alsace",
+        "nomClubVendeur" : "FC Metz",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Moïse Sahi Dion",
+        "nomClubAcheteur" : "FC Annecy",
+        "nomClubVendeur" : "RC Strasbourg Alsace",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Junya Ito",
+        "nomClubAcheteur" : "Stade de Reims",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hugo Ekitiké",
+        "nomClubAcheteur" : "Paris SG",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Andreaw Gravillon",
+        "nomClubAcheteur" : "Stade de Reims",
+        "nomClubVendeur" : "Inter",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Wout Faes",
+        "nomClubAcheteur" : "Leicester City",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "17,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Folarin Balogun",
+        "nomClubAcheteur" : "Stade de Reims",
+        "nomClubVendeur" : "Arsenal U21",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Predrag Rajković",
+        "nomClubAcheteur" : "RCD Mallorca",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxime Busi",
+        "nomClubAcheteur" : "Stade de Reims",
+        "nomClubVendeur" : "Parma",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "El Bilal Touré",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Emmanuel Agbadou",
+        "nomClubAcheteur" : "Stade de Reims",
+        "nomClubVendeur" : "KAS Eupen",
+        "prix" : "2,60 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Ghislain Konan",
+        "nomClubAcheteur" : "Al-Nassr FC",
+        "nomClubVendeur" : "Stade de Reims",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Adil Aouchiche",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "Saint-Étienne",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Armand Laurienté",
+        "nomClubAcheteur" : "Sassuolo",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Chrislain Matsima",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "AS Monaco",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Umut Bozok",
+        "nomClubAcheteur" : "Trabzonspor",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yvon Mvogo",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "RB Leipzig",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Houboulang Mendes",
+        "nomClubAcheteur" : "UD Almería",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Yoann Cathline",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "EA Guingamp",
+        "prix" : "2,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Moritz Jenz",
+        "nomClubAcheteur" : "Celtic Glasgow",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gédéon Kalulu",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Paul Nardi",
+        "nomClubAcheteur" : "La Gantoise",
+        "nomClubVendeur" : "FC Lorient",
+        "prix" : "150 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Lucien Agoumé",
+        "nomClubAcheteur" : "ESTAC Troyes",
+        "nomClubVendeur" : "Inter",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Giulian Biancone",
+        "nomClubAcheteur" : "Nottm Forest",
+        "nomClubVendeur" : "ESTAC Troyes",
+        "prix" : "10,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sávio",
+        "nomClubAcheteur" : "ESTAC Troyes",
+        "nomClubVendeur" : "Atlético-MG",
+        "prix" : "6,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sávio",
+        "nomClubAcheteur" : "PSV Eindhoven",
+        "nomClubVendeur" : "ESTAC Troyes",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Iké Ugbo",
+        "nomClubAcheteur" : "ESTAC Troyes",
+        "nomClubVendeur" : "KRC Genk",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Metinho",
+        "nomClubAcheteur" : "Lommel SK",
+        "nomClubVendeur" : "ESTAC Troyes",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Rony Lopes",
+        "nomClubAcheteur" : "ESTAC Troyes",
+        "nomClubVendeur" : "FC Sevilla",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jimmy Giraudon",
+        "nomClubAcheteur" : "Saint-Étienne",
+        "nomClubVendeur" : "ESTAC Troyes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Jackson Porozo",
+        "nomClubAcheteur" : "ESTAC Troyes",
+        "nomClubVendeur" : "Boavista",
+        "prix" : "3,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Dylan Chambost",
+        "nomClubAcheteur" : "Saint-Étienne",
+        "nomClubVendeur" : "ESTAC Troyes",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mahdi Camara",
+        "nomClubAcheteur" : "Stade Brestois 29",
+        "nomClubVendeur" : "Saint-Étienne",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gautier Larsonneur",
+        "nomClubAcheteur" : "Valenciennes FC",
+        "nomClubVendeur" : "Stade Brestois 29",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Pierre Lees-Melou",
+        "nomClubAcheteur" : "Stade Brestois 29",
+        "nomClubVendeur" : "Norwich",
+        "prix" : "2,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Youcef Belaïli",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "Stade Brestois 29",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Achraf Dari",
+        "nomClubAcheteur" : "Stade Brestois 29",
+        "nomClubVendeur" : "Wydad AC",
+        "prix" : "2,70 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Hianga'a Mbock",
+        "nomClubAcheteur" : "SM Caen",
+        "nomClubVendeur" : "Stade Brestois 29",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Mathias Pereira Lage",
+        "nomClubAcheteur" : "Stade Brestois 29",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Denys Bain",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "Stade Brestois 29",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Kenny Lala",
+        "nomClubAcheteur" : "Stade Brestois 29",
+        "nomClubVendeur" : "Olymp. Pirée",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Paul Lasne",
+        "nomClubAcheteur" : "Paris FC",
+        "nomClubVendeur" : "Stade Brestois 29",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Abdallah Sima",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Brighton",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Momo Cho",
+        "nomClubAcheteur" : "Real Sociedad",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "11,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Adrien Hunou",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Minnesota",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Angelo Fulgini",
+        "nomClubAcheteur" : "1.FSV Mainz 05",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "6,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cédric Hountondji",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Clermont Foot",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Jimmy Cabot",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Yan Valery",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Southampton",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Stéphane Bahoken",
+        "nomClubAcheteur" : "Kasimpasa",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Ousmane Camara",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Paris FC",
+        "prix" : "2,20 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Enzo Ebosse",
+        "nomClubAcheteur" : "Udinese",
+        "nomClubVendeur" : "Angers SCO",
+        "prix" : "4,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Veljko Birmancevic",
+        "nomClubAcheteur" : "Toulouse FC",
+        "nomClubVendeur" : "Malmö FF",
+        "prix" : "4,10 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Nathan Ngoumou",
+        "nomClubAcheteur" : "Bor. M'gladbach",
+        "nomClubVendeur" : "Toulouse FC",
+        "prix" : "8,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Thijs Dallinga",
+        "nomClubAcheteur" : "Toulouse FC",
+        "nomClubVendeur" : "Excelsior",
+        "prix" : "2,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Bafodé Diakité",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Toulouse FC",
+        "prix" : "3,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Zakaria Aboukhlal",
+        "nomClubAcheteur" : "Toulouse FC",
+        "nomClubVendeur" : "AZ Alkmaar",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Kalidou Sidibé",
+        "nomClubAcheteur" : "Quevilly Rouen",
+        "nomClubVendeur" : "Toulouse FC",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Theocharis Tsingaras",
+        "nomClubAcheteur" : "Toulouse FC",
+        "nomClubVendeur" : "PAOK Saloniki",
+        "prix" : "Montant du prêt300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Naatan Skyttä",
+        "nomClubAcheteur" : "Viking FK",
+        "nomClubVendeur" : "Toulouse FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Oliver Zandén",
+        "nomClubAcheteur" : "Toulouse FC",
+        "nomClubVendeur" : "Elfsborg",
+        "prix" : "1,50 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sam Sanna",
+        "nomClubAcheteur" : "Stade Lavallois",
+        "nomClubVendeur" : "Toulouse FC",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Jérémie Bela",
+        "nomClubAcheteur" : "Clermont Foot 63",
+        "nomClubVendeur" : "Birmingham",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mohamed Bayo",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Clermont Foot 63",
+        "prix" : "14,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Maxime Gonalons",
+        "nomClubAcheteur" : "Clermont Foot 63",
+        "nomClubVendeur" : "FC Granada",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Salis Abdul Samed",
+        "nomClubAcheteur" : "RC Lens",
+        "nomClubVendeur" : "Clermont Foot 63",
+        "prix" : "5,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Komnen Andric",
+        "nomClubAcheteur" : "Clermont Foot 63",
+        "nomClubVendeur" : "Dinamo Zagreb",
+        "prix" : "1,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Akim Zedadka",
+        "nomClubAcheteur" : "LOSC Lille",
+        "nomClubVendeur" : "Clermont Foot 63",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Mateusz Wieteska",
+        "nomClubAcheteur" : "Clermont Foot 63",
+        "nomClubVendeur" : "Legia Varsovie",
+        "prix" : "1,30 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Cédric Hountondji",
+        "nomClubAcheteur" : "Angers SCO",
+        "nomClubVendeur" : "Clermont Foot 63",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Maximiliano Caufriez",
+        "nomClubAcheteur" : "Clermont Foot 63",
+        "nomClubVendeur" : "Spartak Moscou",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Vital Nsimba",
+        "nomClubAcheteur" : "G. Bordeaux",
+        "nomClubVendeur" : "Clermont Foot 63",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "M'Baye Niang",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "G. Bordeaux",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Carlens Arcus",
+        "nomClubAcheteur" : "Vitesse",
+        "nomClubVendeur" : "AJ Auxerre",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Akim Zedadka",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "LOSC Lille",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Aly Ndom",
+        "nomClubAcheteur" : "Sans club",
+        "nomClubVendeur" : "AJ Auxerre",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Gideon Mensah",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "RB Salzbourg",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Gautier Lloris",
+        "nomClubAcheteur" : "AC Le Havre",
+        "nomClubVendeur" : "AJ Auxerre",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Rayan Raveloson",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "Los Angeles",
+        "prix" : "1,75 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Alec Georgen",
+        "nomClubAcheteur" : "Concarneau",
+        "nomClubVendeur" : "AJ Auxerre",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Nuno Da Costa",
+        "nomClubAcheteur" : "AJ Auxerre",
+        "nomClubVendeur" : "Nottm Forest",
+        "prix" : "2,00 mio. €"
+        }, 
+
+        {    
+        "nomJoueur" : "Sonny Laiton",
+        "nomClubAcheteur" : "Stade Briochin",
+        "nomClubVendeur" : "AJ Auxerre",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Youssouf Koné",
+        "nomClubAcheteur" : "AC Ajaccio",
+        "nomClubVendeur" : "Ol. Lyonnais",
+        "prix" : "Prêt"
+        }, 
+
+        {    
+        "nomJoueur" : "Gédéon Kalulu",
+        "nomClubAcheteur" : "FC Lorient",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Youcef Belaïli",
+        "nomClubAcheteur" : "AC Ajaccio",
+        "nomClubVendeur" : "Sans club",
+        "prix" : "-"
+        }, 
+
+        {    
+        "nomJoueur" : "Simon Elisor",
+        "nomClubAcheteur" : "RFC Seraing",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "?"
+        }, 
+
+        {    
+        "nomJoueur" : "Clément Vidal",
+        "nomClubAcheteur" : "AC Ajaccio",
+        "nomClubVendeur" : "Montpellier",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Gaëtan Courtet",
+        "nomClubAcheteur" : "EA Guingamp",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "600 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Romain Hamouma",
+        "nomClubAcheteur" : "AC Ajaccio",
+        "nomClubVendeur" : "Saint-Étienne",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Tony Njiké",
+        "nomClubAcheteur" : "FC Arges",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "Transfert libre"
+        }, 
+
+        {    
+        "nomJoueur" : "Fernand Mayembo",
+        "nomClubAcheteur" : "AC Ajaccio",
+        "nomClubVendeur" : "AC Le Havre",
+        "prix" : "300 K €"
+        }, 
+
+        {    
+        "nomJoueur" : "Taïryk Arconte",
+        "nomClubAcheteur" : "Stade Brestois",
+        "nomClubVendeur" : "AC Ajaccio",
+        "prix" : "?"
+        }
+]

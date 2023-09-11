@@ -1,0 +1,336 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+	min-height: 100vh;
+	color: #555;
+	background-color: #1f232b;
+}
+
+.main{
+    transition:filter 0ms ease-in-out 300ms;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+nav {
+  background-color: #121a24;
+  padding: 0 20px;
+  border-radius: 40px;
+  box-shadow: 0 10px 20px rgba(35, 39, 58, 0.521);
+  display: flex;
+  overflow: hidden;
+  overflow-x: auto;
+  position: relative;
+}
+
+.nav-item {
+text-decoration: none;
+  color: white;
+  font-family: arial, sans-serif;
+  padding: 20px;
+  margin: 0 6px;
+  position: relative;
+}
+
+.nav-item:before {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  background-color: #f16150;
+  height: 5px;
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  left: 0;
+  transition: .4s;
+}
+.a:before {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  background-color: black;
+  height: 5px;
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  left: 0;
+  transition: .4s;
+}
+
+.nav-item:hover:before {
+  bottom: 0;
+
+}
+.nav-item:hover {
+  color: #f16150;
+
+}
+a.active{
+  color: #f16150;
+}
+
+.nav-indicator {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 5px;
+  transition: .4s;
+  border-radius: 8px 8px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* I always reset all the html elements */
+
+/*
+table{
+	width:  1000px;
+	margin: 50px auto;
+}
+
+table th{
+	padding: 20px 0;
+	background-color: #fff45c;
+	/* background-color: #fff; 
+	border:  thin solid #d4d4d4;
+}
+
+table td{
+	padding: 10px;
+	border:  thin solid #d4d4d4;
+	width: 18%;
+	text-align: center;
+	background-color: #fff;
+}
+
+table img{
+	width:  20%;
+}
+
+table td.total-price{
+	font-weight: bold;
+	font-size: 22px;
+}
+table a{
+	text-decoration: none;
+	color: darkred;
+	padding: 10px 15px;
+}
+table a:active{
+	background-color: #DAE345;
+}
+
+table select{
+	padding: 10px;
+	width:  200px;
+	font-size: 16px;
+	border: thin solid #d4d4d4;
+	background-color: transparent;
+}
+table select:focus{
+	outline: none;
+}*/
+
+table img{
+	width:  60%;
+}
+
+/**************/
+/* les panels*/
+/**************/
+
+#profile-panel {
+
+    margin-top: 90px;
+    width: 75vw;
+
+}
+
+.profile-parent {
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 90px;
+    grid-row-gap: 120px;
+
+}
+
+.profile {
+    background-color: #fff45c;
+    width: 360px;
+    height: 465px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow:0 0 5px 5px rgba(0.080, 0.080, 0.080, 0.080);
+
+}
+
+.profile td h2 {
+    color: black;
+    font-style: normal;
+    line-height: 5px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    font-size: 16px;
+}
+
+
+#tabclubs , #tabclubs2{
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+
+
+#tabclubs td, #tabclubs th , #tabclubs2 td, #tabclubs2 th{
+        padding: 25px;
+        border-bottom: 2px solid black;
+        border-top: 2px solid black;
+        text-align: center;
+        background-color: #fff45c;
+      }
+
+
+#tabclubs th, #tabclubs2 th {
+  padding-top: 12px;
+  text-align: left;
+  color: black;
+}
+/* La barre de recherche*/
+
+ #search {
+            margin-top: 50px;
+            border-radius: 30px;
+            border: 1.5px solid black;
+            height: 25px;
+            width: 90%;
+        }
+
+        #button {
+            border: 0px solid black;
+            height: 20px;
+            cursor: pointer;
+        }
+
+/*Table + Elements Style*/
+
+.content-table {
+  border-collapse: collapse;
+  margin: 25px auto;
+  margin-top: 75px;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(219, 214, 214, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 5px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #e7edee;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.content-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+
+/* Popup Style */
+
+.popup{
+    position:absolute;
+    text-align:center;
+    top : -100%;
+    left : 80%;
+    transform:translate(-50%, -50%);
+    background-color:#fff;
+    width:400px;
+    height:500px;
+    padding:20px;
+    border-radius:25px;
+    margin-top:-10px;
+    box-shadow:0px 2px 5px 5px rgba(35, 39, 58, 0.521);
+    transition:top 0ms ease-in-out 300ms,
+               opacity 300ms ease-in-out,
+               margin-top 300ms ease-in-out;
+}
+
+.popup ul{
+    list-style : none;
+}
+
+.popup .close-btn{
+    position : absolute;
+    top : 8px;
+    right: 15px;
+    width:30px;
+    height:30px;
+    background:#050c14;
+    color:#fff;
+    border:none;
+    outline:none;
+    border-radius:35%;
+    cursor:pointer;
+}
+
+body.active-popup {
+    /*overflow:hidden;*/
+}
+
+body.active-popup .main{
+    filter:blur(5px);
+    background:rgba(0,0,0,0.08);
+    transition:filter 0ms ease-in-out 0ms;
+}
+
+body.active-popup .popup{
+    top:50%;
+    opacity:1;
+    margin-top:0px
+    transition:top 0ms ease-in-out,
+               opacity 300ms ease-in-out,
+               margin-top 300ms ease-in-out;
+}
