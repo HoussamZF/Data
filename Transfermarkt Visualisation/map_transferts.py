@@ -9,7 +9,11 @@ with open('data/Transferts.json', 'r', encoding='utf-8') as jsonfile:
 dictTRANSFERTS = defaultdict(dict)
 
 
-#Methodes utiles
+#METHODES
+
+#1. PERMET DE SUPPRIMER LA REDONDANCE DUE A L'ABBREVIATION DES NOMS DE CLUBS PAR LE SITE
+#PAR EXEMPLE: UN TRANSFERT QUI CONCERNE BORUSSIA DORTMUND POURRAIT APPARAITRE UNE 2EME FOIS
+#AVEC COMME NOM DE CLUB (ACHETUER OU VENDEUR) = Bor. DORTMUND
 def redondanceCleaner():
     for t in transferts:
         if(t["nomJoueur"] in dictTRANSFERTS):
@@ -19,6 +23,10 @@ def redondanceCleaner():
             dictTRANSFERTS[t["nomJoueur"]].update(t)
     return dictTRANSFERTS
 
+#2. TRAITEMENT DE LA DONNEE PRIX, QUI VIENT SOUS FORME DE STRING CE QUI NE PERMET PAS
+#DE FAIRE UNE VRAIE COMPARAISON AFIN DE DETERMINER LA TAILLE DE LA FLECHE, ICI L'IDEE
+#C'EST DE DONNER UNE CERTAINE TAILLE A LA FLECHE POUR ARIVER A DETERMINER SON POIDS PAR
+#RAPPORTS AUX AUTRES TRANSACTIONS PREALISES PAR LE CLUB
 def prixConverter():
     for player in dictTRANSFERTS:
         prixTransfert = dictTRANSFERTS[player]["prix"]
@@ -40,10 +48,10 @@ def prixConverter():
             justeLePrix = prixTransfert.split("Montant du prêt")[1]
             #ajouter une clé pret qui nous permet de déterminer le type d'affichage
             dictTRANSFERTS[player].update({"prixFloat" : extractPrix(justeLePrix), "pret" : 1})
-    
     return dictTRANSFERTS
 
 
+#3. EXTRAIRE LE PRIX D'UNE TRANSACTION ET LE RETOURNER SOUS FORME D'UN INTEGER
 def extractPrix(prixStr):
     #cas des millions
     if(len(prixStr.split(" mio. €")) == 2):
@@ -64,12 +72,12 @@ def extractPrix(prixStr):
     return prixComparable
 
 
-
+#4. RETOURNE LES INFOS EN HTML  D'UN JOUEUR POUR L'AFFICHER DANS LA BULLE DU TRANSFERT
 def joueurToHtml(dictPlayer):
     infos = maplib.recupJoueurInfos(dictPlayer["nomJoueur"])
     txt = '<div style="font-family : arial">'
 
-    if(infos != {}):
+    if(infos != {}): #SI C'EST LE PREMIER JOUEUR DANS LA LISTE (ENTRE 2 CLUBS A & B)
         txt += '<img src="'+infos["photo"]+'" height="55" width="50"><br>'
         txt += infos["age"] + ' | '
         txt += '<a href="#" style="text-decoration : none">' + infos["nom"] + '</a> | '
@@ -79,20 +87,18 @@ def joueurToHtml(dictPlayer):
         txt += '> ' + dictPlayer["nomClubAcheteur"]+'<br>'
         txt += '<b>' + dictPlayer["prix"]+'</b><br>'
         txt += '<b>Fin de contrat : </b>' + infos["finContrat"]
-
-
+        
         return txt
 
-
+    #SI C'EST UN NIEME JOUEUR (PAS LE PREMIER)
     txt += '<a href="#" style="text-decoration : none">'+dictPlayer["nomJoueur"]+'</a>'+'<br>'
     txt += '> ' + dictPlayer["nomClubAcheteur"]+'<br>'
     txt += '<b>' + dictPlayer["prix"]+'</b><br>'
 
-
-
     txt += '</div>'
     return txt
 
+#5. RETOURNE LES DEPENSES(-) & BENEFICES(+) D'UN CLUB
 def dep_benef_clubs(transferts, nomClub):
     dep = 0
     benef = 0
